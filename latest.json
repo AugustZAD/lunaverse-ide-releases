@@ -1,8 +1,8 @@
 {
-  "commit": "cbf56278fa02edb344ad945e3433763cc3f1d0f6",
+  "commit": "d8cda4926dd3b7241b7988184ef39600c977b9e2",
   "productVersion": "0.4.0",
   "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.4.0/Lunaverse-0.4.0.zip",
-  "sha256": "d46fd21c7226518fd478707c1c14103853b7986eb6a1adc78cdc3a3005a153c3",
-  "timestamp": 1781761554393,
+  "sha256": "c4d3f65653404bc9ce18a919aaa643eb65e06e119b32fb85d47c5d5b4d09fc9f",
+  "timestamp": 1781868262253,
   "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.4.0.zip"
 }
