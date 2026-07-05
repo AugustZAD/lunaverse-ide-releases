@@ -1,10 +1,10 @@
 {
-  "commit": "2f555585a1cc6720539e0b95f713b4daff530379",
-  "productVersion": "0.5.0",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.5.0/Lunaverse-0.5.0.zip",
-  "sha256": "27bf70781f0723d9cae50f6af031dd5258954ffa0338e72ee62c1f5c42f85fd4",
-  "timestamp": 1782870764516,
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.5.0.zip",
-  "releaseNotes": "- Agent-driven production: the Lunaverse Agent can now drive asset generation directly through a new headless CLI\n- Style Studio now writes through the backend gateway, with official style edits restricted to admins\n- Release Center: real-time upload progress, tunable concurrency, and clear warnings for missing assets\n- Sprite generation now mats off a neutral grey plate instead of green screen, for cleaner transparent cutouts\n- Every webview is now hardened with a nonce-locked Content Security Policy\n- The Account sidebar shows a proper signed-out icon and now updates live across the IDE\n- Update notifications now show release notes in your IDE's language\n- Release Center now displays the current version, a changelog input, and live publish status",
-  "releaseNotesZh": "- Agent 驱动生产：Lunaverse Agent 现在可直接通过新的无头 CLI 驱动素材生成\n- Style Studio 改为经后端网关写入，官方画风编辑仅限管理员\n- 发布中心：实时上传进度、可调并发数、缺失资源明确提示\n- 立绘生成改为中性灰底抠图（告别绿幕），透明立绘更干净\n- 所有 webview 现已用 nonce 锁定的内容安全策略加固\n- 账号侧栏登出态改为正确的人形图标，且全局实时同步\n- 更新通知现在会按 IDE 语言显示更新说明\n- 发布中心现在显示当前版本号、更新日志输入框和实时发布状态"
+  "commit": "6f454408cbc21b3c4c50d7253a3bf3be36cc877e",
+  "productVersion": "0.5.1",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.5.1/Lunaverse-0.5.1.zip",
+  "sha256": "f39b08a2cc9427f964294d08405c3ade45f73ed95d0fa8fa758b8e02410fcf2d",
+  "timestamp": 1783278090648,
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.5.1.zip",
+  "releaseNotes": "- Vault-native storytelling: the bundled sample book now ships with a plan vault, and the IDE surfaces a searchable Vault Graph with findings and deep links\n- F Studio now includes an embedded live monitor that follows the editing caret and uses the same player path as Preview\n- Workshop asset production is faster and clearer, with direct image regeneration, per-phase progress, raw-render previews, enlarged thumbnails, and asset version history\n- Lunaverse Agent now ships with asset-production MCP tools and starter prompts so new sessions begin with the right production context\n- The IDE now uses a single hard login gate and unified account surface across Agent, Workshop, Preview, and publishing flows\n- Update notifications now show the from-to version jump before restart",
+  "releaseNotesZh": "- Vault 原生创作：内置样板书现在带计划 Vault，IDE 可打开可搜索的 Vault Graph，并显示问题提示与深链跳转\n- F Studio 新增内嵌实时监看，随编辑光标联动，并与 Preview 使用同一播放器链路\n- Workshop 素材生产更快也更透明：直接图片重生、分阶段进度、原始渲染预览、缩略图放大与素材版本历史\n- Lunaverse Agent 内置素材生产 MCP 工具与开场提示，新会话会自动带上正确的生产上下文\n- IDE 现在使用统一的强登录入口与账号界面，覆盖 Agent、Workshop、Preview 与发布流程\n- 更新提示现在会显示从旧版本到新版本的版本跳转"
 }
