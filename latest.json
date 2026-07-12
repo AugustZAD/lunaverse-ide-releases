@@ -1,10 +1,10 @@
 {
-  "commit": "6f454408cbc21b3c4c50d7253a3bf3be36cc877e",
-  "productVersion": "0.5.1",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.5.1/Lunaverse-0.5.1.zip",
-  "sha256": "f39b08a2cc9427f964294d08405c3ade45f73ed95d0fa8fa758b8e02410fcf2d",
-  "timestamp": 1783278090648,
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.5.1.zip",
-  "releaseNotes": "- Vault-native storytelling: the bundled sample book now ships with a plan vault, and the IDE surfaces a searchable Vault Graph with findings and deep links\n- F Studio now includes an embedded live monitor that follows the editing caret and uses the same player path as Preview\n- Workshop asset production is faster and clearer, with direct image regeneration, per-phase progress, raw-render previews, enlarged thumbnails, and asset version history\n- Lunaverse Agent now ships with asset-production MCP tools and starter prompts so new sessions begin with the right production context\n- The IDE now uses a single hard login gate and unified account surface across Agent, Workshop, Preview, and publishing flows\n- Update notifications now show the from-to version jump before restart",
-  "releaseNotesZh": "- Vault 原生创作：内置样板书现在带计划 Vault，IDE 可打开可搜索的 Vault Graph，并显示问题提示与深链跳转\n- F Studio 新增内嵌实时监看，随编辑光标联动，并与 Preview 使用同一播放器链路\n- Workshop 素材生产更快也更透明：直接图片重生、分阶段进度、原始渲染预览、缩略图放大与素材版本历史\n- Lunaverse Agent 内置素材生产 MCP 工具与开场提示，新会话会自动带上正确的生产上下文\n- IDE 现在使用统一的强登录入口与账号界面，覆盖 Agent、Workshop、Preview 与发布流程\n- 更新提示现在会显示从旧版本到新版本的版本跳转"
+  "commit": "bff15624c924359272c31824fb875fdad5d7c68a",
+  "productVersion": "1.0.0",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.0/Lunaverse-1.0.0.zip",
+  "sha256": "e8ce4be16dac706620ffdb1754ecd8708461426485f680e715cdbd17229fd3ce",
+  "timestamp": 1783872405800,
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.0.zip",
+  "releaseNotes": "- A redesigned book-first workspace now opens each story in a unified book structure, with a single-page asset gallery replacing the old agent-centric workspace\n- The new structured production control plane runs image, audio, video, and minigame work as verifiable background jobs, with live milestones, status, cancellation, and delivery checks\n- The Gallery is now the production hub, with core-cast prioritization, review toolbars, publish readiness, blocker warnings, regeneration controls, and durable asset version history in one place\n- Voice casting now lives in the Gallery, with catalog search, auto-assignment, auditions, direction editing, inline playback, progress, and backend sync\n- Starting from scratch and importing a novel now hand off directly to the Lunaverse Agent with the right story context and a prefilled planning prompt\n- Character and image production now uses deterministic look tags, centrally delivered production guidance, combined prompt/reference controls, and progressive minigame layers for more consistent output",
+  "releaseNotesZh": "- 全新的“以书为中心”工作区会用统一目录打开每个故事，并以单页素材画廊取代旧的 Agent 中心式工作台\n- 新的结构化生产控制面可把图片、音频、视频和小游戏任务作为可验证的后台作业执行，并提供实时里程碑、状态、取消与交付校验\n- 画廊现已成为统一生产中心：核心角色优先、审核工具栏、发布就绪度、阻塞提示、重生成控制与持久素材版本历史集中在一处\n- 配音选角已并入画廊，支持声线库搜索、自动分配、试听、表演指导编辑、内联播放、进度显示与后端同步\n- “从零开始”和“导入小说”现在会带着正确的故事上下文及预填规划提示，直接交接给 Lunaverse Agent\n- 角色与图片生产现采用确定性的 Look 标签、云端统一下发的生产指导、合并后的提示词/参考图控制，以及渐进式小游戏分层，输出更稳定一致"
 }
