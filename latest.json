@@ -1,10 +1,12 @@
 {
-  "commit": "bff15624c924359272c31824fb875fdad5d7c68a",
-  "productVersion": "1.0.0",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.0/Lunaverse-1.0.0.zip",
-  "sha256": "e8ce4be16dac706620ffdb1754ecd8708461426485f680e715cdbd17229fd3ce",
-  "timestamp": 1783872405800,
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.0.zip",
-  "releaseNotes": "- A redesigned book-first workspace now opens each story in a unified book structure, with a single-page asset gallery replacing the old agent-centric workspace\n- The new structured production control plane runs image, audio, video, and minigame work as verifiable background jobs, with live milestones, status, cancellation, and delivery checks\n- The Gallery is now the production hub, with core-cast prioritization, review toolbars, publish readiness, blocker warnings, regeneration controls, and durable asset version history in one place\n- Voice casting now lives in the Gallery, with catalog search, auto-assignment, auditions, direction editing, inline playback, progress, and backend sync\n- Starting from scratch and importing a novel now hand off directly to the Lunaverse Agent with the right story context and a prefilled planning prompt\n- Character and image production now uses deterministic look tags, centrally delivered production guidance, combined prompt/reference controls, and progressive minigame layers for more consistent output",
-  "releaseNotesZh": "- 全新的“以书为中心”工作区会用统一目录打开每个故事，并以单页素材画廊取代旧的 Agent 中心式工作台\n- 新的结构化生产控制面可把图片、音频、视频和小游戏任务作为可验证的后台作业执行，并提供实时里程碑、状态、取消与交付校验\n- 画廊现已成为统一生产中心：核心角色优先、审核工具栏、发布就绪度、阻塞提示、重生成控制与持久素材版本历史集中在一处\n- 配音选角已并入画廊，支持声线库搜索、自动分配、试听、表演指导编辑、内联播放、进度显示与后端同步\n- “从零开始”和“导入小说”现在会带着正确的故事上下文及预填规划提示，直接交接给 Lunaverse Agent\n- 角色与图片生产现采用确定性的 Look 标签、云端统一下发的生产指导、合并后的提示词/参考图控制，以及渐进式小游戏分层，输出更稳定一致"
+  "commit": "66edc5851c0a883651dae9656537c2b4e5c476f6",
+  "productVersion": "1.0.1",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.1/Lunaverse-1.0.1.zip",
+  "sha256": "b4e8583f8f775e6a37a0e9ce95741f7dce0f7edab2bfbc81960b1d64280b13c4",
+  "size": 404770847,
+  "timestamp": 1783965239716,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.0.1",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.1.zip",
+  "releaseNotes": "- The Library can now import existing unregistered Lunaverse projects alongside starting from scratch and importing a novel\n- Legacy v0.5.1 projects are normalized into the 1.0 book layout, with active scripts converted, validated, and compiled before shelf registration\n- Project migration is copy-first and transactional: failures roll back cleanly, and a changed source folder is preserved instead of deleted",
+  "releaseNotesZh": "- 书架新增“迁入项目”，与“从零新建”和“导入小说”并列，可直接收纳其它目录中未登记的 Lunaverse 项目\n- 旧版 v0.5.1 项目会自动整理为 1.0 书籍目录，并在登记到书架前完成活动脚本转换、校验与编译\n- 项目迁移采用先复制后提交的事务流程：失败会完整回滚，源目录若在迁移期间发生变化则会保留而不删除"
 }
