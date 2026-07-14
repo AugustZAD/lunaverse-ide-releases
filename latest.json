@@ -1,12 +1,12 @@
 {
-  "commit": "66edc5851c0a883651dae9656537c2b4e5c476f6",
-  "productVersion": "1.0.1",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.1/Lunaverse-1.0.1.zip",
-  "sha256": "b4e8583f8f775e6a37a0e9ce95741f7dce0f7edab2bfbc81960b1d64280b13c4",
-  "size": 404770847,
-  "timestamp": 1783965239716,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.0.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.1.zip",
-  "releaseNotes": "- The Library can now import existing unregistered Lunaverse projects alongside starting from scratch and importing a novel\n- Legacy v0.5.1 projects are normalized into the 1.0 book layout, with active scripts converted, validated, and compiled before shelf registration\n- Project migration is copy-first and transactional: failures roll back cleanly, and a changed source folder is preserved instead of deleted",
-  "releaseNotesZh": "- 书架新增“迁入项目”，与“从零新建”和“导入小说”并列，可直接收纳其它目录中未登记的 Lunaverse 项目\n- 旧版 v0.5.1 项目会自动整理为 1.0 书籍目录，并在登记到书架前完成活动脚本转换、校验与编译\n- 项目迁移采用先复制后提交的事务流程：失败会完整回滚，源目录若在迁移期间发生变化则会保留而不删除"
+  "commit": "bcc2457bdd242e8c691d5065202629db256a6493",
+  "productVersion": "1.0.2",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.2/Lunaverse-1.0.2.zip",
+  "sha256": "defe0b93387e16c894d4332e01e1d42d8acb6fd768f521feb74f27ff1f1ac1d9",
+  "size": 404950025,
+  "timestamp": 1784038034883,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.0.2",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.2.zip",
+  "releaseNotes": "- Audio planning now generates structured music and SFX briefs and applies them directly to canonical asset descriptions, including explicit SFX coverage\n- Image production now supports high-throughput batches of up to 50 concurrent tasks, with batch concurrency configurable by administrators\n- Production sessions are isolated per IDE window so parallel books and windows no longer interfere with one another\n- The updater can choose its download source from the client network for faster and more reliable delivery\n- Legacy sprite descriptions are automatically refreshed from current story context when a book opens",
+  "releaseNotesZh": "- 音频规划现可生成结构化音乐与音效 briefs，并直接写入统一素材描述，同时明确覆盖每一项 SFX 需求\n- 图片生产现支持最高 50 路高吞吐批处理，管理员可配置批次并发数\n- 生产会话现按 IDE 窗口隔离，并行打开不同书籍或窗口时不再相互干扰\n- 更新器现可根据客户端网络选择下载源，提升下载速度与稳定性\n- 打开书籍时会依据当前故事上下文自动刷新旧项目的角色立绘描述"
 }
