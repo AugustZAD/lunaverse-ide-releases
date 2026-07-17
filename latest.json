@@ -1,12 +1,12 @@
 {
-  "commit": "bcc2457bdd242e8c691d5065202629db256a6493",
-  "productVersion": "1.0.2",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.0.2/Lunaverse-1.0.2.zip",
-  "sha256": "defe0b93387e16c894d4332e01e1d42d8acb6fd768f521feb74f27ff1f1ac1d9",
-  "size": 404950025,
-  "timestamp": 1784038034883,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.0.2",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.0.2.zip",
-  "releaseNotes": "- Audio planning now generates structured music and SFX briefs and applies them directly to canonical asset descriptions, including explicit SFX coverage\n- Image production now supports high-throughput batches of up to 50 concurrent tasks, with batch concurrency configurable by administrators\n- Production sessions are isolated per IDE window so parallel books and windows no longer interfere with one another\n- The updater can choose its download source from the client network for faster and more reliable delivery\n- Legacy sprite descriptions are automatically refreshed from current story context when a book opens",
-  "releaseNotesZh": "- 音频规划现可生成结构化音乐与音效 briefs，并直接写入统一素材描述，同时明确覆盖每一项 SFX 需求\n- 图片生产现支持最高 50 路高吞吐批处理，管理员可配置批次并发数\n- 生产会话现按 IDE 窗口隔离，并行打开不同书籍或窗口时不再相互干扰\n- 更新器现可根据客户端网络选择下载源，提升下载速度与稳定性\n- 打开书籍时会依据当前故事上下文自动刷新旧项目的角色立绘描述"
+  "commit": "b55a0d559752a929cdbb1eb6eb819c5c14aa007c",
+  "productVersion": "1.1.0",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.0/Lunaverse-1.1.0.zip",
+  "sha256": "f9b5b7ffb149c49321f62e4658d6738405b57d569fe2abc1fa7a64d7b50c334a",
+  "size": 323516285,
+  "timestamp": 1784265752581,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.0",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.0.zip",
+  "releaseNotes": "- Lunaverse Agent can now inspect which assets actually exist on disk and submit one exact production order for image, audio, video, and minigame assets\n- Creating missing assets and regenerating existing ones now share one production flow with live progress, cancellation, verified delivery, and version history\n- CG generation now identifies the cast and location at each scene, using the matching character portraits and background as visual references for more consistent results\n- The Gallery now offers a compact style selector; Style Studio adds a dedicated Event CG category, and inherited reference images can be removed for individual assets\n- Lunaverse Agent now exposes reasoning strength alongside model selection, with High as the default and per-run control when a task needs more or less deliberation\n- The Villain Season sample now has a dedicated actions menu for creating a new book from the sample or resetting the sample to its original state\n- Windows users can now choose a compatible local drive for the Lunaverse workspace, with verified copy-and-switch migration that keeps the original workspace as a safety copy",
+  "releaseNotesZh": "- Lunaverse Agent 现可检查素材是否已真实落盘，并为图片、音频、视频和小游戏提交一次精确生产订单\n- 补齐缺失素材与重新生成现已统一为同一生产流程，支持实时进度、取消、交付校验和版本历史\n- CG 生成现会识别每个场景中的出场角色与地点，并自动采用对应角色立绘和背景作为视觉参考，使画面更连贯一致\n- 画廊新增紧凑的风格选择器；风格工作室新增独立的“事件 CG”分类，并支持为单个素材移除继承的参考图\n- Lunaverse Agent 现可在模型选择旁调整推理强度，默认使用“高”，也可按任务需要选择更多或更少的思考\n- Villain Season 样书新增专属操作菜单，可直接基于样书新建书籍，或将样书恢复到初始状态\n- Windows 用户现可为 Lunaverse workspace 选择兼容的本地磁盘；迁移会在校验复制结果后再切换，并保留原 workspace 作为安全副本"
 }
