@@ -1,12 +1,12 @@
 {
-  "commit": "b55a0d559752a929cdbb1eb6eb819c5c14aa007c",
-  "productVersion": "1.1.0",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.0/Lunaverse-1.1.0.zip",
-  "sha256": "f9b5b7ffb149c49321f62e4658d6738405b57d569fe2abc1fa7a64d7b50c334a",
-  "size": 323516285,
-  "timestamp": 1784265752581,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.0",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.0.zip",
-  "releaseNotes": "- Lunaverse Agent can now inspect which assets actually exist on disk and submit one exact production order for image, audio, video, and minigame assets\n- Creating missing assets and regenerating existing ones now share one production flow with live progress, cancellation, verified delivery, and version history\n- CG generation now identifies the cast and location at each scene, using the matching character portraits and background as visual references for more consistent results\n- The Gallery now offers a compact style selector; Style Studio adds a dedicated Event CG category, and inherited reference images can be removed for individual assets\n- Lunaverse Agent now exposes reasoning strength alongside model selection, with High as the default and per-run control when a task needs more or less deliberation\n- The Villain Season sample now has a dedicated actions menu for creating a new book from the sample or resetting the sample to its original state\n- Windows users can now choose a compatible local drive for the Lunaverse workspace, with verified copy-and-switch migration that keeps the original workspace as a safety copy",
-  "releaseNotesZh": "- Lunaverse Agent 现可检查素材是否已真实落盘，并为图片、音频、视频和小游戏提交一次精确生产订单\n- 补齐缺失素材与重新生成现已统一为同一生产流程，支持实时进度、取消、交付校验和版本历史\n- CG 生成现会识别每个场景中的出场角色与地点，并自动采用对应角色立绘和背景作为视觉参考，使画面更连贯一致\n- 画廊新增紧凑的风格选择器；风格工作室新增独立的“事件 CG”分类，并支持为单个素材移除继承的参考图\n- Lunaverse Agent 现可在模型选择旁调整推理强度，默认使用“高”，也可按任务需要选择更多或更少的思考\n- Villain Season 样书新增专属操作菜单，可直接基于样书新建书籍，或将样书恢复到初始状态\n- Windows 用户现可为 Lunaverse workspace 选择兼容的本地磁盘；迁移会在校验复制结果后再切换，并保留原 workspace 作为安全副本"
+  "commit": "3c1fa4535c52e3fb1353e2ff164ef9d7a5e9d790",
+  "productVersion": "1.1.1",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.1/Lunaverse-1.1.1.zip",
+  "sha256": "b7fe16bf46b677743ebb18dd27b596659dc423b3ce3387e9fee57eb6a4f7f43c",
+  "size": 330833574,
+  "timestamp": 1784486808236,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.1",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.1.zip",
+  "releaseNotes": "- CG production now supports dynamic manga as a third output form, with a dedicated cloud director that plans, renders, and verifies portrait-format animated comic clips\n- Lunaverse Agent can now start focused CG production directly from chat and offers contextual starter prompts for common story and asset tasks\n- The Gallery now lets every asset category collapse, opens video and audio files in standalone previews, and copies canonical asset filenames from cards or detail headers\n- Agent command activity is easier to scan with grouped consecutive steps and command details collapsed by default\n- GPT-5.6 Sol is now available in place of GPT-5.5 for current Lunaverse Agent sessions",
+  "releaseNotesZh": "- CG 生产新增“动态漫画”作为第三种输出形态，并由专用云端导演完成竖屏动态漫画的规划、渲染与交付校验\n- Lunaverse Agent 现可直接从对话启动聚焦的 CG 生产，并为常见故事与素材任务提供带上下文的起手提示\n- 画廊现支持逐类收起素材、将视频和音频跳出独立预览，并可从素材卡片或详情标题一键复制 canonical 文件名\n- Agent 命令活动现会合并连续步骤，并默认收起命令详情，长任务更易浏览\n- Lunaverse Agent 的当前会话模型已用 GPT-5.6 Sol 取代 GPT-5.5"
 }
