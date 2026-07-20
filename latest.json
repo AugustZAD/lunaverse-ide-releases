@@ -1,12 +1,12 @@
 {
-  "commit": "3c1fa4535c52e3fb1353e2ff164ef9d7a5e9d790",
-  "productVersion": "1.1.1",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.1/Lunaverse-1.1.1.zip",
-  "sha256": "b7fe16bf46b677743ebb18dd27b596659dc423b3ce3387e9fee57eb6a4f7f43c",
-  "size": 330833574,
-  "timestamp": 1784486808236,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.1.zip",
-  "releaseNotes": "- CG production now supports dynamic manga as a third output form, with a dedicated cloud director that plans, renders, and verifies portrait-format animated comic clips\n- Lunaverse Agent can now start focused CG production directly from chat and offers contextual starter prompts for common story and asset tasks\n- The Gallery now lets every asset category collapse, opens video and audio files in standalone previews, and copies canonical asset filenames from cards or detail headers\n- Agent command activity is easier to scan with grouped consecutive steps and command details collapsed by default\n- GPT-5.6 Sol is now available in place of GPT-5.5 for current Lunaverse Agent sessions",
-  "releaseNotesZh": "- CG 生产新增“动态漫画”作为第三种输出形态，并由专用云端导演完成竖屏动态漫画的规划、渲染与交付校验\n- Lunaverse Agent 现可直接从对话启动聚焦的 CG 生产，并为常见故事与素材任务提供带上下文的起手提示\n- 画廊现支持逐类收起素材、将视频和音频跳出独立预览，并可从素材卡片或详情标题一键复制 canonical 文件名\n- Agent 命令活动现会合并连续步骤，并默认收起命令详情，长任务更易浏览\n- Lunaverse Agent 的当前会话模型已用 GPT-5.6 Sol 取代 GPT-5.5"
+  "commit": "5123d2884d470547ff0502835db3efd57c2108c3",
+  "productVersion": "1.1.2",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.2/Lunaverse-1.1.2.zip",
+  "sha256": "43ccd1607c23dfc26b80902b1787c057d39db66aff57a1c2f3f727a0aa17abe0",
+  "size": 330952601,
+  "timestamp": 1784577579643,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.2",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.2.zip",
+  "releaseNotes": "- Update notifications now make the available actions and restart step more prominent and easier to understand",
+  "releaseNotesZh": "- 更新通知现会更醒目地呈现可选操作与重启更新步骤，升级流程更容易理解"
 }
