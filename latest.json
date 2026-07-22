@@ -1,12 +1,12 @@
 {
-  "commit": "5123d2884d470547ff0502835db3efd57c2108c3",
-  "productVersion": "1.1.2",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.2/Lunaverse-1.1.2.zip",
-  "sha256": "43ccd1607c23dfc26b80902b1787c057d39db66aff57a1c2f3f727a0aa17abe0",
-  "size": 330952601,
-  "timestamp": 1784577579643,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.2",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.2.zip",
-  "releaseNotes": "- Update notifications now make the available actions and restart step more prominent and easier to understand",
-  "releaseNotesZh": "- 更新通知现会更醒目地呈现可选操作与重启更新步骤，升级流程更容易理解"
+  "commit": "7088065f151fd4cbe0ecfe656d9751bb34c3aede",
+  "productVersion": "1.1.4",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.4/Lunaverse-1.1.4.zip",
+  "sha256": "f3143577d365c8723adf688808b19f2e323c4bb9ce71cf6f51b0752c0f644b6f",
+  "size": 330593677,
+  "timestamp": 1784749559719,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.4",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.4.zip",
+  "releaseNotes": "- Manga CG production now uses WebP throughout its art and review pipeline, with deterministic review previews and direct multimodal image inspection for more reliable long-running generations",
+  "releaseNotesZh": "- 漫画 CG 生产现已在美术与审核流程中全面采用 WebP，并通过确定性的审核预览和直接多模态图片检查提升长流程生成的稳定性"
 }
