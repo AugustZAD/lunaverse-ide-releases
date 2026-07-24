@@ -1,12 +1,12 @@
 {
-  "commit": "7088065f151fd4cbe0ecfe656d9751bb34c3aede",
-  "productVersion": "1.1.4",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.4/Lunaverse-1.1.4.zip",
-  "sha256": "f3143577d365c8723adf688808b19f2e323c4bb9ce71cf6f51b0752c0f644b6f",
-  "size": 330593677,
-  "timestamp": 1784749559719,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.4",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.4.zip",
-  "releaseNotes": "- Manga CG production now uses WebP throughout its art and review pipeline, with deterministic review previews and direct multimodal image inspection for more reliable long-running generations",
-  "releaseNotesZh": "- 漫画 CG 生产现已在美术与审核流程中全面采用 WebP，并通过确定性的审核预览和直接多模态图片检查提升长流程生成的稳定性"
+  "commit": "ee0aeb38e984a0fc2f0bc23cdc81172726a828fb",
+  "productVersion": "1.1.5",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.5/Lunaverse-1.1.5.zip",
+  "sha256": "9865097c89f0347af2ad0226ed07cbaf4d05ddb33fb600d21f2ae72d3c4d5474",
+  "size": 331139710,
+  "timestamp": 1784852155648,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.5",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.5.zip",
+  "releaseNotes": "- Asset production can now execute a deterministic dependency-aware DAG, with a shared production queue that shows live state and explicit approval boundaries\n- Book and stage loading now use story artwork with a cinematic monochrome-to-color reveal tied to real bootstrap progress\n- The IDE gateway now supports a CLI login handoff for authenticated local production tools",
+  "releaseNotesZh": "- 素材生产现可执行确定性的依赖感知 DAG，并通过共享生产队列展示实时状态与明确的审批边界\n- 书籍与舞台加载现会使用剧情画面，并以跟随真实启动进度的电影化黑白转彩效果呈现\n- IDE 网关现支持 CLI 登录交接，让本地生产工具可使用已认证的登录状态"
 }
