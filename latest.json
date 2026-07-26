@@ -1,12 +1,12 @@
 {
-  "commit": "ee0aeb38e984a0fc2f0bc23cdc81172726a828fb",
-  "productVersion": "1.1.5",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.5/Lunaverse-1.1.5.zip",
-  "sha256": "9865097c89f0347af2ad0226ed07cbaf4d05ddb33fb600d21f2ae72d3c4d5474",
-  "size": 331139710,
-  "timestamp": 1784852155648,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.5",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.5.zip",
-  "releaseNotes": "- Asset production can now execute a deterministic dependency-aware DAG, with a shared production queue that shows live state and explicit approval boundaries\n- Book and stage loading now use story artwork with a cinematic monochrome-to-color reveal tied to real bootstrap progress\n- The IDE gateway now supports a CLI login handoff for authenticated local production tools",
-  "releaseNotesZh": "- 素材生产现可执行确定性的依赖感知 DAG，并通过共享生产队列展示实时状态与明确的审批边界\n- 书籍与舞台加载现会使用剧情画面，并以跟随真实启动进度的电影化黑白转彩效果呈现\n- IDE 网关现支持 CLI 登录交接，让本地生产工具可使用已认证的登录状态"
+  "commit": "4d311b3431730272ad341c2d7423ed24c951ce2e",
+  "productVersion": "1.1.6",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.6/Lunaverse-1.1.6.zip",
+  "sha256": "6140b69200abd1d7611f84d79c68e5f4d69366bbf004a20597cc48e98a8183ee",
+  "size": 331124830,
+  "timestamp": 1785096192788,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.6",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.6.zip",
+  "releaseNotes": "- Dynamic comic production now uses three focused visual review gates for the hero, sibling batch, and final cut, with deterministic storyboard and composition checks before delivery\n- Lunaverse Agent now reads versioned product information so capability guidance and UI paths stay aligned with the installed IDE\n- Book artwork transitions now begin on press and continue through the real opening sequence for a more immediate, continuous handoff",
+  "releaseNotesZh": "- 动态漫画生产现采用三个聚焦的视觉审核节点，分别审核主视觉、配套画面批次和最终成片，并在交付前执行确定性的分镜与合成检查\n- Lunaverse Agent 现会读取版本化产品信息，使能力说明和 UI 路径始终与当前安装的 IDE 保持一致\n- 书籍画面转场现会从按下操作时立即开始，并贯穿真实打开流程，带来更即时、连贯的衔接体验"
 }
