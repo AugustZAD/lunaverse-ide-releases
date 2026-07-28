@@ -1,12 +1,12 @@
 {
-  "commit": "4d311b3431730272ad341c2d7423ed24c951ce2e",
-  "productVersion": "1.1.6",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.1.6/Lunaverse-1.1.6.zip",
-  "sha256": "6140b69200abd1d7611f84d79c68e5f4d69366bbf004a20597cc48e98a8183ee",
-  "size": 331124830,
-  "timestamp": 1785096192788,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.1.6",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.1.6.zip",
-  "releaseNotes": "- Dynamic comic production now uses three focused visual review gates for the hero, sibling batch, and final cut, with deterministic storyboard and composition checks before delivery\n- Lunaverse Agent now reads versioned product information so capability guidance and UI paths stay aligned with the installed IDE\n- Book artwork transitions now begin on press and continue through the real opening sequence for a more immediate, continuous handoff",
-  "releaseNotesZh": "- 动态漫画生产现采用三个聚焦的视觉审核节点，分别审核主视觉、配套画面批次和最终成片，并在交付前执行确定性的分镜与合成检查\n- Lunaverse Agent 现会读取版本化产品信息，使能力说明和 UI 路径始终与当前安装的 IDE 保持一致\n- 书籍画面转场现会从按下操作时立即开始，并贯穿真实打开流程，带来更即时、连贯的衔接体验"
+  "commit": "4b9bbee214d1f7a6de61d4f2de0e1ff52b0950ff",
+  "productVersion": "1.2.0",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.0/Lunaverse-1.2.0.zip",
+  "sha256": "8f36a818700e2d3188df3d6d5134948ecc308a4947d62fe32325067d43456eab",
+  "size": 331206597,
+  "timestamp": 1785202366850,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.0",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.0.zip",
+  "releaseNotes": "- Lunaverse Agent now uses the native OpenAI Responses and Anthropic Messages protocols while keeping unified sign-in, billing, and model routing\n- GPT and Claude can now be switched within the same task after a response completes, is cancelled, or fails, with safe recovery for interrupted tool work",
+  "releaseNotesZh": "- Lunaverse Agent 现通过原生 OpenAI Responses 与 Anthropic Messages 协议工作，同时继续使用统一登录、计费与模型路由\n- 同一任务现可在回复结束、取消或失败后自由切换 GPT 与 Claude，并为中断的工具操作提供安全恢复"
 }
