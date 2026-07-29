@@ -1,12 +1,12 @@
 {
-  "commit": "4b9bbee214d1f7a6de61d4f2de0e1ff52b0950ff",
-  "productVersion": "1.2.0",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.0/Lunaverse-1.2.0.zip",
-  "sha256": "8f36a818700e2d3188df3d6d5134948ecc308a4947d62fe32325067d43456eab",
-  "size": 331206597,
-  "timestamp": 1785202366850,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.0",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.0.zip",
-  "releaseNotes": "- Lunaverse Agent now uses the native OpenAI Responses and Anthropic Messages protocols while keeping unified sign-in, billing, and model routing\n- GPT and Claude can now be switched within the same task after a response completes, is cancelled, or fails, with safe recovery for interrupted tool work",
-  "releaseNotesZh": "- Lunaverse Agent 现通过原生 OpenAI Responses 与 Anthropic Messages 协议工作，同时继续使用统一登录、计费与模型路由\n- 同一任务现可在回复结束、取消或失败后自由切换 GPT 与 Claude，并为中断的工具操作提供安全恢复"
+  "commit": "73262fc22bb222f70ceedd946a9412ce9b766f1d",
+  "productVersion": "1.2.1",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.1/Lunaverse-1.2.1.zip",
+  "sha256": "da1a7cf5780c6bebb2df2bcb082bc7b83680dfb2a36938c5ec60ac07525d176b",
+  "size": 331360535,
+  "timestamp": 1785290656243,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.1",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.1.zip",
+  "releaseNotes": "- CG output forms can now be saved per asset in Gallery, including still image, video, and dynamic comic settings\n- Asset generation now reports dependency-aware production progress and final outcomes directly in the IDE",
+  "releaseNotesZh": "- 画廊现可为每个 CG 单独保存输出形式，包括静态图片、视频和动态漫画设置\n- 素材生成现会在 IDE 中直接反馈依赖感知的生产进度与最终结果"
 }
