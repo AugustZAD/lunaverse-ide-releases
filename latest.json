@@ -1,12 +1,12 @@
 {
-  "commit": "73262fc22bb222f70ceedd946a9412ce9b766f1d",
-  "productVersion": "1.2.1",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.1/Lunaverse-1.2.1.zip",
-  "sha256": "da1a7cf5780c6bebb2df2bcb082bc7b83680dfb2a36938c5ec60ac07525d176b",
-  "size": 331360535,
-  "timestamp": 1785290656243,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.1.zip",
-  "releaseNotes": "- CG output forms can now be saved per asset in Gallery, including still image, video, and dynamic comic settings\n- Asset generation now reports dependency-aware production progress and final outcomes directly in the IDE",
-  "releaseNotesZh": "- 画廊现可为每个 CG 单独保存输出形式，包括静态图片、视频和动态漫画设置\n- 素材生成现会在 IDE 中直接反馈依赖感知的生产进度与最终结果"
+  "commit": "14ed8d412c5166db3d65a2f1b4e69d3ed8887a5c",
+  "productVersion": "1.2.3",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.3/Lunaverse-1.2.3.zip",
+  "sha256": "8de901a9f3f34b3e6d89ccc6ed1a43307c6a98ce0c7dae22d5a41229a87a7c74",
+  "size": 330806026,
+  "timestamp": 1785375095000,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.3",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.3.zip",
+  "releaseNotes": "- Administrator accounts can now process up to ten video CG jobs concurrently while server-side queueing protects provider capacity\n- Style Studio templates now show whether they append the shared generation contract or operate as template-only instructions",
+  "releaseNotesZh": "- 管理员账号现可并发处理最多十个视频 CG 任务，并由服务端排队机制保护供应商容量\n- 风格工作室模板现会标明其是否追加通用生成约束，或仅使用模板自身指令"
 }
