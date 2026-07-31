@@ -1,12 +1,12 @@
 {
-  "commit": "2179c4e28ad8b361f1571e4a4bcb53b997cbcc4b",
-  "productVersion": "1.2.4",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.4/Lunaverse-1.2.4.zip",
-  "sha256": "e8f6d94ceb67ddb5f7aff3b899ee4b52fd55bea1d9048490629d12008c8f707e",
-  "size": 331470311,
-  "timestamp": 1785424535759,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.4",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.4.zip",
-  "releaseNotes": "- Asset generation now shows distinct validation, submitted, completed, and attention states, with a direct retry action when needed\n- Gallery asset categories now open as a compact collapsible index with their controls kept within easy reach",
-  "releaseNotesZh": "- 素材生成现会区分本地校验、已提交、已完成和需处理状态，并在需要时提供直接重新生成操作\n- 画廊素材分类现以紧凑的可折叠索引呈现，并让分类操作始终保持易于访问"
+  "commit": "a5569046cf50ff6b9371d79b6d26314c4b805880",
+  "productVersion": "1.2.6",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.6/Lunaverse-1.2.6.zip",
+  "sha256": "f832f4bf17ff7a1de58dd277bb82eada5b132dff12e9c1a686fbd654610d5cb5",
+  "size": 331584933,
+  "timestamp": 1785529435190,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.6",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.6.zip",
+  "releaseNotes": "- Novel publishing now shows continuous progress, reuses unchanged content by SHA-256, and can preserve a verified full-project snapshot for later recovery when the production backend supports it",
+  "releaseNotesZh": "- 小说发布现会持续显示进度、按 SHA-256 复用未改动内容，并可在生产后端支持时保存经校验的完整工程快照，便于后续恢复"
 }
