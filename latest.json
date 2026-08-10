@@ -1,12 +1,12 @@
 {
-  "commit": "68ac5dd9caad18c82645a3af081d876b82f632e7",
-  "productVersion": "1.2.8",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.2.8/Lunaverse-1.2.8.zip",
-  "sha256": "e57d92626e71cfd1ca796d65d79d6bc1ef779a2d654c2555200f0fd9a52294b7",
-  "size": 331003295,
-  "timestamp": 1785962842896,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.2.8",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.2.8.zip",
-  "releaseNotes": "- Creator documents now expose polished structured results, while canonical scripts, previews, and evaluations stay aligned with the same project authority\n- Codex, Claude Code, and terminal users can now securely compose the IDE's existing project, writing, production, preview, and publishing capabilities through atomic lunaverse CLI commands, with durable jobs and scoped visual refreshes\n- Media workflows now resolve CG tags directly, negotiate asynchronous image polling, and accept concurrent generation orders more reliably",
-  "releaseNotesZh": "- 创作文档现可呈现更完善的结构化结果，同时权威剧本、预览与评估会保持在同一项目语义下同步\n- Codex、Claude Code 与终端用户现可通过安全的 lunaverse 原子命令组合 IDE 既有的项目、写作、生产、预览与发布能力，并获得持久任务与按范围刷新的可视化界面\n- 素材工作流现可直接解析 CG 标签、协商异步图片轮询，并更可靠地接收并发生成任务"
+  "commit": "eb239c3afaeaae1f5126ccd80395fee7926d5502",
+  "productVersion": "1.3.0",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.0/Lunaverse-1.3.0.zip",
+  "sha256": "ca486124cebb401fb480d60bbbb25a8fc089318d6bb026fb8d998219976c4069",
+  "size": 331580483,
+  "timestamp": 1786394854440,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.0",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.0.zip",
+  "releaseNotes": "- Story planning now includes route outlines, a structure review checkpoint, and clear ways to return to shared plotlines\n- The creator flow now keeps episode backgrounds visible, gives clearer production guidance, and takes you directly to the Gallery to generate assets\n- Lunaverse Agent now carries the Gallery starfield into its welcome panel for a more continuous workspace experience",
+  "releaseNotesZh": "- 故事规划现提供路线大纲、结构审阅关卡，以及清晰回归共通剧情的方式\n- 创作流程现会持续展示剧集背景、提供更清晰的生产指引，并可直接前往 Gallery 生成素材\n- Lunaverse Agent 现将 Gallery 星空延伸到欢迎面板，让工作区体验更加连贯"
 }
