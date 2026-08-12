@@ -1,12 +1,12 @@
 {
-  "commit": "eb239c3afaeaae1f5126ccd80395fee7926d5502",
-  "productVersion": "1.3.0",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.0/Lunaverse-1.3.0.zip",
-  "sha256": "ca486124cebb401fb480d60bbbb25a8fc089318d6bb026fb8d998219976c4069",
-  "size": 331580483,
-  "timestamp": 1786394854440,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.0",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.0.zip",
-  "releaseNotes": "- Story planning now includes route outlines, a structure review checkpoint, and clear ways to return to shared plotlines\n- The creator flow now keeps episode backgrounds visible, gives clearer production guidance, and takes you directly to the Gallery to generate assets\n- Lunaverse Agent now carries the Gallery starfield into its welcome panel for a more continuous workspace experience",
-  "releaseNotesZh": "- 故事规划现提供路线大纲、结构审阅关卡，以及清晰回归共通剧情的方式\n- 创作流程现会持续展示剧集背景、提供更清晰的生产指引，并可直接前往 Gallery 生成素材\n- Lunaverse Agent 现将 Gallery 星空延伸到欢迎面板，让工作区体验更加连贯"
+  "commit": "5e5c7b7f30a83c1c1ff73865e4eeb94dab9eac74",
+  "productVersion": "1.3.1",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.1/Lunaverse-1.3.1.zip",
+  "sha256": "9a5e0286def30311b4c174ec9ecc3e02b439212d2e5d877bd275918a3ba6fda6",
+  "size": 331660357,
+  "timestamp": 1786516850082,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.1",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.1.zip",
+  "releaseNotes": "- Creator guidance now checks character voice-profile readiness before audio production\n- Gallery asset bands now support direct editing, with filtering tools for outfit and sprite collections",
+  "releaseNotesZh": "- 创作引导现会在声音制作前检查角色声线资料是否完整\n- Gallery 各素材分区现支持直接编辑，服装与表情立绘集合也新增筛选工具栏"
 }
