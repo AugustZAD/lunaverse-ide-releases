@@ -1,12 +1,12 @@
 {
-  "commit": "5e5c7b7f30a83c1c1ff73865e4eeb94dab9eac74",
-  "productVersion": "1.3.1",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.1/Lunaverse-1.3.1.zip",
-  "sha256": "9a5e0286def30311b4c174ec9ecc3e02b439212d2e5d877bd275918a3ba6fda6",
-  "size": 331660357,
-  "timestamp": 1786516850082,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.1.zip",
-  "releaseNotes": "- Creator guidance now checks character voice-profile readiness before audio production\n- Gallery asset bands now support direct editing, with filtering tools for outfit and sprite collections",
-  "releaseNotesZh": "- 创作引导现会在声音制作前检查角色声线资料是否完整\n- Gallery 各素材分区现支持直接编辑，服装与表情立绘集合也新增筛选工具栏"
+  "commit": "ae8d97b32b20027ac249240f67052d1f42c2ac01",
+  "productVersion": "1.3.2",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.2/Lunaverse-1.3.2.zip",
+  "sha256": "aca9e9cbca46200a386b5188246b02b8be5c0872f66a84b2c0c97e14dff0cf7a",
+  "size": 335605330,
+  "timestamp": 1786682735177,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.2",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.2.zip",
+  "releaseNotes": "- Agent Skills now update through an authenticated release catalog with atomic, verified publication and rollback-safe local copies\n- The Lunaverse CLI now provides a compact Agent catalog and one-command diagnostics for external coding agents\n- Cline, Codex, Claude Code, and Pi now send validated, privacy-filtered detailed traces only for IDE-admitted sessions, with account and workspace isolation plus fail-open local recovery",
+  "releaseNotesZh": "- Agent Skill 现通过认证发布目录更新，并采用原子校验发布与可安全回退的本地副本\n- Lunaverse CLI 现为外部编码 Agent 提供紧凑工具目录与一键诊断\n- Cline、Codex、Claude Code 与 Pi 现仅为已获 IDE 准入的会话发送经校验脱敏的详细轨迹，并提供账号与工作区隔离及不影响 Agent 任务的本机恢复"
 }
