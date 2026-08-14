@@ -1,12 +1,12 @@
 {
-  "commit": "6eb08cff14607bde9f90a141b82f8ce1390007ad",
-  "productVersion": "1.3.3",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.3/Lunaverse-1.3.3.zip",
-  "sha256": "a8beeeeccdbaabc90b0f2f7a89276cf83097457473df5d32945141e9f75d9c0e",
-  "size": 335601624,
-  "timestamp": 1786709328758,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.3",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.3.zip",
-  "releaseNotes": "- Built-in Cline and external Codex, Claude Code, and Pi now reliably deliver IDE-admitted traces through local recovery to production observability",
-  "releaseNotesZh": "- 内置 Cline 与外部 Codex、Claude Code、Pi 现可将 IDE 准入的轨迹经本机恢复链路可靠投递至生产观测系统"
+  "commit": "549ac93d4e4bc35cf67099f362ebaa42bb7d99d5",
+  "productVersion": "1.3.4",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.4/Lunaverse-1.3.4.zip",
+  "sha256": "06a948c098be04eef26ec004078913ad14a50dbf427ca8c0232fa57f3e83b9f7",
+  "size": 335602750,
+  "timestamp": 1786720716987,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.4",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.4.zip",
+  "releaseNotes": "- Agent trace setup now tolerates compatible plugin updates and harmless JSON formatting changes, avoiding unnecessary reinstalls and dropped telemetry",
+  "releaseNotesZh": "- Agent 轨迹接入现可兼容插件更新与无害的 JSON 格式变化，避免不必要的重装和轨迹丢失"
 }
