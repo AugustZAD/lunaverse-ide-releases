@@ -1,0 +1,12 @@
+{
+  "commit": "8e4eac1e1ca4aff00afde252c2bb3cf184f69c20",
+  "productVersion": "1.3.5",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.5/Lunaverse-1.3.5.zip",
+  "sha256": "4aa5e175405a217edb2b52dc02889959a62e6fbf78e251f78770dab88ee381b8",
+  "size": 340166503,
+  "timestamp": 1786865151946,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.5",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.5.zip",
+  "releaseNotes": "- Fast Lane now produces default event CG images from the new Manga templates\n- Episode and arc review can run an opt-in CLI playthrough against the real script\n- Agent completion approval survives an Extension Host crash and settles exactly once\n- Outfit inspector can search Fashion Looks without leaving the current character",
+  "releaseNotesZh": "- Fast Lane 现在可用新的漫画模板直接产出默认事件 CG\n- 集/弧审查可选用 CLI playthrough，对着真实剧本走一遍\n- Agent 完成确认在 Extension Host 崩溃后仍能恢复，且只会结算一次\n- 服装检查器可直接搜索 Fashion Looks，不用离开当前角色"
+}
