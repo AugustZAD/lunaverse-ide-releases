@@ -1,12 +1,13 @@
 {
-  "commit": "8e4eac1e1ca4aff00afde252c2bb3cf184f69c20",
-  "productVersion": "1.3.5",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.5/Lunaverse-1.3.5.zip",
-  "sha256": "4aa5e175405a217edb2b52dc02889959a62e6fbf78e251f78770dab88ee381b8",
-  "size": 340166503,
-  "timestamp": 1786865151946,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.5",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.5.zip",
-  "releaseNotes": "- Fast Lane now produces default event CG images from the new Manga templates\n- Episode and arc review can run an opt-in CLI playthrough against the real script\n- Agent completion approval survives an Extension Host crash and settles exactly once\n- Outfit inspector can search Fashion Looks without leaving the current character",
-  "releaseNotesZh": "- Fast Lane 现在可用新的漫画模板直接产出默认事件 CG\n- 集/弧审查可选用 CLI playthrough，对着真实剧本走一遍\n- Agent 完成确认在 Extension Host 崩溃后仍能恢复，且只会结算一次\n- 服装检查器可直接搜索 Fashion Looks，不用离开当前角色"
+  "commit": "443d5a34c4e28728abbf0278d7e0e67c20fb7597",
+  "productVersion": "1.3.6",
+  "releaseSequence": "26",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.6/Lunaverse-1.3.6.zip",
+  "sha256": "cbf09523a3712825c8a50aefac81eb0817749b5e197531a7c08a1c3f9c109fd7",
+  "size": 340269943,
+  "timestamp": 1787044590590,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.6",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.6.zip",
+  "releaseNotes": "- Interrupted Manga Fast Lane runs can now resume from their exact run directory without starting duplicate work\n- Content Studio now makes publishing conflicts and rollback state explicit before any write\n- Fashion Look search stays isolated to the current asset, so parallel searches no longer replace each other's results\n- Agent recovery reports the real failure and resumes safely instead of implying that your model changed\n- Creator sign-in, command-line workflows, and external-agent diagnostics are more reliable across IDE restarts\n- Beta and stable updates now preserve one verified build across macOS and Windows promotion",
+  "releaseNotesZh": "- 漫画 Fast Lane 中断后可从原运行目录准确恢复，不会重复启动任务\n- Content Studio 现在会在写入前明确展示发布冲突与回滚状态\n- Fashion Look 搜索现在按当前素材隔离，并行搜索不会再互相覆盖结果\n- Agent 恢复现在会如实说明故障并安全继续，不再误导为模型已切换\n- 创作者登录、命令行工作流与外部 Agent 诊断在 IDE 重启后更加可靠\n- Beta 与 stable 更新现在会在 macOS 和 Windows 晋升过程中保持同一份已验证构建"
 }
