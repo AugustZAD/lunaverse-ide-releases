@@ -1,13 +1,13 @@
 {
-  "commit": "0aa243f3b1e7ffac9ece2d0ead45b4ed12eecc00",
-  "productVersion": "1.3.7",
-  "releaseSequence": "27",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.7/Lunaverse-1.3.7.zip",
-  "sha256": "960cc0bf3652e73cee70f4b95b09f209e346df80d1555aaf7c15728d5a9d141d",
-  "size": 340225781,
-  "timestamp": 1787174334569,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.7",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.7.zip",
-  "releaseNotes": "- Lunaverse Agent is restored on the optimized Cline runtime, including the latest reliability, exact-ticket DAG, recovery, tracing, and workspace Skill improvements\n- IDE authoring now connects directly to IDE Cloud for identity, models, Styles, Voice, tools, concurrency claims, publishing, and observability without App-local author routing\n- Voice and release TTS controls now live in IDE Cloud while the existing App TTS runtime continues provider execution and durable R2 audio storage through a private service contract",
-  "releaseNotesZh": "- Lunaverse Agent 已恢复为优化后的 Cline 运行时，并保留最新的可靠性、精确票据 DAG、恢复、追踪与工作区 Skill 改进\n- IDE 作者能力现直接连接 IDE Cloud，统一承载身份、模型、画风、声音、工具、并发 Claim、发布与可观测性，不再依赖 App 本地作者路由\n- 声音与预制 TTS 控制面现由 IDE Cloud 管理，既有 App TTS 运行时则通过私有服务合同继续负责真实合成与持久 R2 音频存储"
+  "commit": "f061216192a467ed2b704bd38458b3c290ae5c27",
+  "productVersion": "1.3.8",
+  "releaseSequence": "29",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.8/Lunaverse-1.3.8-r29.zip",
+  "sha256": "dc4279488252ab011226c33ceb46b43e62936ba09e2d17d965346c983ece7894",
+  "size": 404807044,
+  "timestamp": 1787426954265,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.8",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.8-r29.zip",
+  "releaseNotes": "- Lunaverse Agent now runs on the Pi runtime with native questions, activity, subagents, permissions, Skills, background work, and clear error recovery\n- Existing installations move from the legacy App gateway to IDE Cloud automatically, while restart-safe sessions refresh or return to a clear sign-in state\n- Login, registration, account, usage, Agent tools, and publishing now share one IDE Cloud gateway and identify 1.3.8 traffic for migration observability\n- Release Center and Lunaverse Agent now share one Cloud workflow truth for readiness, generation-fenced activation, reconciliation, immutable manifest identity, and actual runtime visibility",
+  "releaseNotesZh": "- Lunaverse Agent 现已切换到 Pi 运行时，完整支持原生提问、活动状态、子 Agent、权限、Skills、后台任务与清晰的错误恢复\n- 旧安装会自动从 App 旧网关迁移到 IDE Cloud，登录会话可在重启后安全刷新，失效时也会明确返回重新登录状态\n- 登录、注册、账号、用量、Agent 工具与发布现统一使用同一 IDE Cloud 网关，并可识别 1.3.8 流量以观测迁移进度\n- Release Center 与 Lunaverse Agent 现共享同一份 Cloud 发布工作流真相，统一展示就绪检查、generation 防串版激活、对账、不可变 manifest 身份与真实运行时可见性"
 }
