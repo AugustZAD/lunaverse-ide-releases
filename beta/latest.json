@@ -1,13 +1,13 @@
 {
-  "commit": "82d168efe05e6252628ca8b9ced68f5c167b7e67",
-  "productVersion": "1.3.9",
-  "releaseSequence": "32",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.9/Lunaverse-1.3.9-r32.zip",
-  "sha256": "01691e381b0800bbfe964c8f8667538bdd8c706091e52f6bcbaabeaef96fe193",
-  "size": 406621182,
-  "timestamp": 1787798258449,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.9",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.9-r32.zip",
-  "releaseNotes": "- Lunaverse Agent can now create a character's complete Series V2 portrait from a natural request, including automatic real-person casting, face development, look development, and final full-body delivery\n- Production DAGs now keep a reviewable visual history with stage progress, casting thumbnails, intermediate images, and final selections\n- Long-running production now surfaces actionable provider failures and recovery context, while flexible character interpretation avoids unnecessary stops on rigid Bible fields\n- Story planning and episode workflows now use the current canonical adaptation Skills with safer concurrency and clearer review handoffs",
-  "releaseNotesZh": "- Lunaverse Agent 现可从一句自然语言请求完成角色的整套 Series V2 立绘，包括自动真人选角、面容开发、定妆与最终全身立绘交付\n- 生产 DAG 现会保留可回看的图形化历史，展示阶段进度、选角缩略图、中间图片与最终选择\n- 长流程生产现会展示可操作的供应商失败原因与恢复上下文，并以灵活的角色理解避免因固定 Bible 字段而不必要地中断\n- 故事策划与分集工作流现采用最新统一改编 Skills，并提供更安全的并发执行和更清晰的审核交接"
+  "commit": "d3cbb6d42d0a62f443299c791f551c47b2b4f4e3",
+  "productVersion": "1.4.0",
+  "releaseSequence": "33",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.0/Lunaverse-1.4.0-r33.zip",
+  "sha256": "e0a457e77a4c74f58f6b5ce4ba788d1c966d0b9d85c04b431e2dacf58fbe982b",
+  "size": 406261924,
+  "timestamp": 1787804205256,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.0",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.0-r33.zip",
+  "releaseNotes": "- Lunaverse Agent can now create a character's complete Series V2 portrait from a natural request, including automatic real-person casting, face development, look development, and final full-body delivery\n- Production DAGs now keep a reviewable visual history with stage progress, casting thumbnails, intermediate images, and final selections\n- Long-running production now surfaces actionable provider failures and recovery context, while flexible character interpretation avoids unnecessary stops on rigid Bible fields\n- Desktop releases now keep Xcode Cloud and GitHub Actions on the same beta-first path, with sequence-qualified artifacts and stable collision protection",
+  "releaseNotesZh": "- Lunaverse Agent 现可从一句自然语言请求完成角色的整套 Series V2 立绘，包括自动真人选角、面容开发、定妆与最终全身立绘交付\n- 生产 DAG 现会保留可回看的图形化历史，展示阶段进度、选角缩略图、中间图片与最终选择\n- 长流程生产现会展示可操作的供应商失败原因与恢复上下文，并以灵活的角色理解避免因固定 Bible 字段而不必要地中断\n- 桌面端发布现统一采用先 beta 后 stable 的流程，并支持带 sequence 的产物命名与 stable 同版本冲突保护"
 }
