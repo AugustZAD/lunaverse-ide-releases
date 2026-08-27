@@ -1,13 +1,13 @@
 {
-  "commit": "1314e753a2c6fde29dbecafdf7099cc0ef62eb49",
-  "productVersion": "1.3.8",
-  "releaseSequence": "31",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.8/Lunaverse-1.3.8-r31.zip",
-  "sha256": "8aafa05b8316fdedaed96ecaf959bbdf2a9ccfd759a67f6c1a2d6799d181329e",
-  "size": 404819743,
-  "timestamp": 1787467260596,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.8",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.8-r31.zip",
-  "releaseNotes": "- Lunaverse Agent now runs on the Pi runtime with native questions, activity, subagents, permissions, Skills, background work, and clear error recovery\n- Existing installations move from the legacy App gateway to IDE Cloud automatically, while restart-safe sessions refresh or return to a clear sign-in state\n- Login, registration, account, usage, Agent tools, and publishing now share one IDE Cloud gateway and identify 1.3.8 traffic for migration observability\n- Release Center and Lunaverse Agent now share one Cloud workflow truth for readiness, generation-fenced activation, reconciliation, immutable manifest identity, and actual runtime visibility",
-  "releaseNotesZh": "- Lunaverse Agent 现已切换到 Pi 运行时，完整支持原生提问、活动状态、子 Agent、权限、Skills、后台任务与清晰的错误恢复\n- 旧安装会自动从 App 旧网关迁移到 IDE Cloud，登录会话可在重启后安全刷新，失效时也会明确返回重新登录状态\n- 登录、注册、账号、用量、Agent 工具与发布现统一使用同一 IDE Cloud 网关，并可识别 1.3.8 流量以观测迁移进度\n- Release Center 与 Lunaverse Agent 现共享同一份 Cloud 发布工作流真相，统一展示就绪检查、generation 防串版激活、对账、不可变 manifest 身份与真实运行时可见性"
+  "commit": "82d168efe05e6252628ca8b9ced68f5c167b7e67",
+  "productVersion": "1.3.9",
+  "releaseSequence": "32",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.3.9/Lunaverse-1.3.9-r32.zip",
+  "sha256": "01691e381b0800bbfe964c8f8667538bdd8c706091e52f6bcbaabeaef96fe193",
+  "size": 406621182,
+  "timestamp": 1787798258449,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.3.9",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.3.9-r32.zip",
+  "releaseNotes": "- Lunaverse Agent can now create a character's complete Series V2 portrait from a natural request, including automatic real-person casting, face development, look development, and final full-body delivery\n- Production DAGs now keep a reviewable visual history with stage progress, casting thumbnails, intermediate images, and final selections\n- Long-running production now surfaces actionable provider failures and recovery context, while flexible character interpretation avoids unnecessary stops on rigid Bible fields\n- Story planning and episode workflows now use the current canonical adaptation Skills with safer concurrency and clearer review handoffs",
+  "releaseNotesZh": "- Lunaverse Agent 现可从一句自然语言请求完成角色的整套 Series V2 立绘，包括自动真人选角、面容开发、定妆与最终全身立绘交付\n- 生产 DAG 现会保留可回看的图形化历史，展示阶段进度、选角缩略图、中间图片与最终选择\n- 长流程生产现会展示可操作的供应商失败原因与恢复上下文，并以灵活的角色理解避免因固定 Bible 字段而不必要地中断\n- 故事策划与分集工作流现采用最新统一改编 Skills，并提供更安全的并发执行和更清晰的审核交接"
 }
