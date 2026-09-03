@@ -1,13 +1,13 @@
 {
-  "commit": "60e16b043fe90884a46ae26ca366d08a474b45b9",
-  "productVersion": "1.4.0",
-  "releaseSequence": "34",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.0/Lunaverse-1.4.0-r34.zip",
-  "sha256": "6d992da136d9503d9fc4afe43b1f5a9de33e65787a5abbd0691f127cf9462a3b",
-  "size": 406731017,
-  "timestamp": 1788076237597,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.0",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.0-r34.zip",
-  "releaseNotes": "- Lunaverse Agent can now create a character's complete Series V2 portrait from a natural request, including automatic real-person casting, face development, look development, and final full-body delivery\n- Production DAGs now keep a reviewable visual history with stage progress, casting thumbnails, intermediate images, and final selections\n- Long-running production now surfaces actionable provider failures and recovery context, while flexible character interpretation avoids unnecessary stops on rigid Bible fields\n- Lunaverse Agent can now search real model and fashion references inside a book, with broad requests handled without accidental placeholder filters\n- Creator Navigator now gives the Agent concise guidance for the current task, including parallel production choices, review handoffs, and canonical Vault deliverables\n- Desktop releases now keep Xcode Cloud and GitHub Actions on the same beta-first path, with sequence-qualified artifacts and stable collision protection",
-  "releaseNotesZh": "- Lunaverse Agent 现可从一句自然语言请求完成角色的整套 Series V2 立绘，包括自动真人选角、面容开发、定妆与最终全身立绘交付\n- 生产 DAG 现会保留可回看的图形化历史，展示阶段进度、选角缩略图、中间图片与最终选择\n- 长流程生产现会展示可操作的供应商失败原因与恢复上下文，并以灵活的角色理解避免因固定 Bible 字段而不必要地中断\n- Lunaverse Agent 现可在作品中搜索真人模特与服装参考，宽泛请求也不会再被占位参数误当成筛选条件\n- 作品导航现会向 Agent 提供当前任务所需的简明提示，涵盖并行生产选择、审核交接与统一 Vault 交付物\n- 桌面端发布现统一采用先 beta 后 stable 的流程，并支持带 sequence 的产物命名与 stable 同版本冲突保护"
+  "commit": "3620f0c3dae92e3f51ec5d0cb24d03b12cb27f24",
+  "productVersion": "1.4.1",
+  "releaseSequence": "35",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.1/Lunaverse-1.4.1-r35.zip",
+  "sha256": "6a05eb9a8cd8412d8dd8feb7da585a6648eb5bd73663bb18c732e65b22a484b8",
+  "size": 410279113,
+  "timestamp": 1788426501521,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.1",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.1-r35.zip",
+  "releaseNotes": "- Lunaverse Agent can now carry long-running creative work across parallel tasks and restarts, with clearer progress and safer recovery\n- Character portraits now preserve identity, style, wardrobe, and transparency more reliably from casting through final delivery\n- Production failures now retain their real cause and durable run state so the Agent can continue without duplicate paid work\n- Imported projects can now be prepared naturally by the Agent when expected structure is missing, without rigid setup gates\n- Cross-platform Agent, media, and production workflows are more reliable on both macOS and Windows",
+  "releaseNotesZh": "- Lunaverse Agent 现可跨并行任务与重启持续完成长流程创作，并提供更清晰的进度与更安全的恢复\n- 角色立绘从真人选角到最终交付，现可更可靠地保持人物身份、画风、服装与透明背景\n- 生产失败现会保留真实原因与可恢复的运行状态，让 Agent 能安全继续并避免重复付费\n- 导入项目缺少预期结构时，Agent 现可自然补齐准备工作，不再被僵硬的初始化门禁阻断\n- macOS 与 Windows 上的 Agent、媒体处理与素材生产流程现已更加稳定"
 }
