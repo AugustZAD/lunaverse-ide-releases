@@ -1,13 +1,13 @@
 {
-  "commit": "3620f0c3dae92e3f51ec5d0cb24d03b12cb27f24",
-  "productVersion": "1.4.1",
-  "releaseSequence": "35",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.1/Lunaverse-1.4.1-r35.zip",
-  "sha256": "6a05eb9a8cd8412d8dd8feb7da585a6648eb5bd73663bb18c732e65b22a484b8",
-  "size": 410279113,
-  "timestamp": 1788426501521,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.1-r35.zip",
-  "releaseNotes": "- Lunaverse Agent can now carry long-running creative work across parallel tasks and restarts, with clearer progress and safer recovery\n- Character portraits now preserve identity, style, wardrobe, and transparency more reliably from casting through final delivery\n- Production failures now retain their real cause and durable run state so the Agent can continue without duplicate paid work\n- Imported projects can now be prepared naturally by the Agent when expected structure is missing, without rigid setup gates\n- Cross-platform Agent, media, and production workflows are more reliable on both macOS and Windows",
-  "releaseNotesZh": "- Lunaverse Agent 现可跨并行任务与重启持续完成长流程创作，并提供更清晰的进度与更安全的恢复\n- 角色立绘从真人选角到最终交付，现可更可靠地保持人物身份、画风、服装与透明背景\n- 生产失败现会保留真实原因与可恢复的运行状态，让 Agent 能安全继续并避免重复付费\n- 导入项目缺少预期结构时，Agent 现可自然补齐准备工作，不再被僵硬的初始化门禁阻断\n- macOS 与 Windows 上的 Agent、媒体处理与素材生产流程现已更加稳定"
+  "commit": "6e6a4d0a6be9d4b3db3ec0b9dd0a0c5e7f54f3b3",
+  "productVersion": "1.4.2",
+  "releaseSequence": "36",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.2/Lunaverse-1.4.2-r36.zip",
+  "sha256": "fc87f024d4ee0a1428579a0a22c535b396e349a91b475e7b9430ff95537ee6b4",
+  "size": 410287752,
+  "timestamp": 1788460210102,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.2",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.2-r36.zip",
+  "releaseNotes": "- Long-running image generation now stays connected to active provider jobs instead of stopping while results are still on the way\n- Character portrait production now resolves its packaged runtime dependencies reliably after installation\n- Existing books now receive current Agent Skills reliably when the authenticated Skill cache refreshes\n- CG video guidance now stays separate from canonical story sources, keeping project content clean while prompts remain available to the Agent\n- Published stories now retain required opening scripts and playable streaming media addresses",
+  "releaseNotesZh": "- 长时间图片生成现会持续跟进仍在运行的供应商任务，不会在结果尚未返回时误判停止\n- 角色立绘生产现可在安装后的应用中可靠加载所需运行依赖\n- 已存在的书籍现可在认证 Skill 缓存刷新后可靠获得最新的 Agent Skill\n- CG 视频指导现与权威故事正文保持分离，在 Agent 可正常使用提示的同时避免污染项目内容\n- 已发布作品现会完整保留必要的开场脚本与可播放的流媒体地址"
 }
