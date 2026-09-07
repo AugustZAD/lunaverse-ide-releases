@@ -1,13 +1,13 @@
 {
-  "commit": "6e6a4d0a6be9d4b3db3ec0b9dd0a0c5e7f54f3b3",
-  "productVersion": "1.4.2",
-  "releaseSequence": "36",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v1.4.2/Lunaverse-1.4.2-r36.zip",
-  "sha256": "fc87f024d4ee0a1428579a0a22c535b396e349a91b475e7b9430ff95537ee6b4",
-  "size": 410287752,
-  "timestamp": 1788460210102,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v1.4.2",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-1.4.2-r36.zip",
-  "releaseNotes": "- Long-running image generation now stays connected to active provider jobs instead of stopping while results are still on the way\n- Character portrait production now resolves its packaged runtime dependencies reliably after installation\n- Existing books now receive current Agent Skills reliably when the authenticated Skill cache refreshes\n- CG video guidance now stays separate from canonical story sources, keeping project content clean while prompts remain available to the Agent\n- Published stories now retain required opening scripts and playable streaming media addresses",
-  "releaseNotesZh": "- 长时间图片生成现会持续跟进仍在运行的供应商任务，不会在结果尚未返回时误判停止\n- 角色立绘生产现可在安装后的应用中可靠加载所需运行依赖\n- 已存在的书籍现可在认证 Skill 缓存刷新后可靠获得最新的 Agent Skill\n- CG 视频指导现与权威故事正文保持分离，在 Agent 可正常使用提示的同时避免污染项目内容\n- 已发布作品现会完整保留必要的开场脚本与可播放的流媒体地址"
+  "commit": "163efea9c469612ece759d482fd503bcbf31c603",
+  "productVersion": "2.0.0",
+  "releaseSequence": "37",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.0/Lunaverse-2.0.0-r37.zip",
+  "sha256": "0ced4b8a21123bff3d89ca6954df2a6f7ca77a0f870c850337588c6691e0f286",
+  "size": 521900412,
+  "timestamp": 1788808431750,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.0",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.0-r37.zip",
+  "releaseNotes": "- A redesigned workspace brings project navigation, Agent conversations, story overview, assets, and script preview together.\n- Upgraded adaptation Skills connect character design, episode planning, interactive choices, writing, and review around a continuous story.\n- Start importing a project directly with Agent. New projects open their own working folder before you have any material ready.\n- Agent conversations stay attached to their projects, with editor context, parallel work, and production progress available in one place.\n- Manga production status and recovery remain available while generation is running.\n- macOS updates can switch to another download source when the first source fails.",
+  "releaseNotesZh": "- 全新工作区统一项目导航、Agent 对话、作品概览、素材与剧本预览。\n- 升级后的改编 Skill 围绕连贯故事串起人物设计、分集规划、互动选择、剧本写作与审查。\n- 直接与 Agent 开始导入项目；即使还没有素材，也能新建独立工作文件夹后再讨论创作。\n- Agent 对话与各自项目保持关联，编辑器上下文、并行工作和生产进度集中可见。\n- 漫画生成进行中仍可查看任务状态并继续恢复流程。\n- macOS 更新在下载源失败后可自动切换备用源。"
 }
