@@ -1,13 +1,13 @@
 {
-  "commit": "17b0e672a959736e15d1f3bab7dfd3d168693c9c",
-  "productVersion": "2.0.1",
-  "releaseSequence": "38",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.1/Lunaverse-2.0.1-r38.zip",
-  "sha256": "19132ded6296fe86c372a7b874e39a6746496a39752a008fc4e686c5c53008a1",
-  "size": 521897852,
-  "timestamp": 1788815072494,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.1",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.1-r38.zip",
-  "releaseNotes": "- The import guide is visible before a conversation starts, including the new-project action and file picker.\n- Agent can expand across the workspace in the stable client.",
-  "releaseNotesZh": "- 尚未开始对话时也能看到项目导入引导、新建入口和文件选择。\n- 正式客户端支持展开 Agent，占满工作区进行对话。"
+  "commit": "b1b648c8c27b3a90108d57337060b68fadb66960",
+  "productVersion": "2.0.2",
+  "releaseSequence": "39",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.2/Lunaverse-2.0.2-r39.zip",
+  "sha256": "f709e3efa21a5d67e9680638581ffbb2396022e22bfd0877b0b069d8e82eff64",
+  "size": 526310805,
+  "timestamp": 1788983365737,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.2",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.2-r39.zip",
+  "releaseNotes": "- Agent stays responsive during long work, shows concrete progress, and safely resumes incomplete production without losing the real failure reason.\n- Project files are grouped more clearly in the sidebar, while internal-only book metadata stays out of sight.\n- Character and sprite production now respects explicit casting and review choices, accepts valid portrait proportions, and handles faint transparent-edge residue more reliably.\n- Temporary network failures no longer clear the user's saved sign-in state.\n- Agent uses the right project Skills more consistently and avoids unnecessary review steps when a focused change does not affect the wider story arc.",
+  "releaseNotesZh": "- Agent 在长任务中会持续显示具体进度，并可安全续接未完成的生产流程，同时保留真实失败原因。\n- 侧边栏会更清晰地归纳项目文件，同时隐藏仅供内部使用的书籍元数据。\n- 人物与 Sprite 生产现会遵循用户明确的选角和审核选择，接受正确的立绘比例，并更可靠地处理透明边缘的轻微残留。\n- 临时网络故障不再清除用户已保存的登录状态。\n- Agent 会更稳定地使用正确的项目 Skill，并在局部修改不影响整体故事线时省去不必要的审查步骤。"
 }
