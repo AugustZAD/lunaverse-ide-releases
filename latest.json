@@ -1,13 +1,13 @@
 {
-  "commit": "b1b648c8c27b3a90108d57337060b68fadb66960",
-  "productVersion": "2.0.2",
-  "releaseSequence": "39",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.2/Lunaverse-2.0.2-r39.zip",
-  "sha256": "f709e3efa21a5d67e9680638581ffbb2396022e22bfd0877b0b069d8e82eff64",
-  "size": 526310805,
-  "timestamp": 1788983365737,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.2",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.2-r39.zip",
-  "releaseNotes": "- Agent stays responsive during long work, shows concrete progress, and safely resumes incomplete production without losing the real failure reason.\n- Project files are grouped more clearly in the sidebar, while internal-only book metadata stays out of sight.\n- Character and sprite production now respects explicit casting and review choices, accepts valid portrait proportions, and handles faint transparent-edge residue more reliably.\n- Temporary network failures no longer clear the user's saved sign-in state.\n- Agent uses the right project Skills more consistently and avoids unnecessary review steps when a focused change does not affect the wider story arc.",
-  "releaseNotesZh": "- Agent 在长任务中会持续显示具体进度，并可安全续接未完成的生产流程，同时保留真实失败原因。\n- 侧边栏会更清晰地归纳项目文件，同时隐藏仅供内部使用的书籍元数据。\n- 人物与 Sprite 生产现会遵循用户明确的选角和审核选择，接受正确的立绘比例，并更可靠地处理透明边缘的轻微残留。\n- 临时网络故障不再清除用户已保存的登录状态。\n- Agent 会更稳定地使用正确的项目 Skill，并在局部修改不影响整体故事线时省去不必要的审查步骤。"
+  "commit": "5d9f8f09e16f92c6e4ee268a85335fa2b67dfe40",
+  "productVersion": "2.0.3",
+  "releaseSequence": "40",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.3/Lunaverse-2.0.3-r40.zip",
+  "sha256": "d35bfe1726e79c6de4efd7267b7ed9b1f49f614e6aec97acebbcc610c3196710",
+  "size": 526506650,
+  "timestamp": 1789142595796,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.3",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.3-r40.zip",
+  "releaseNotes": "- Agent now explains provider retry waits, resumes promptly after transient gateway failures, and no longer leaves stale waiting indicators behind.\n- Long production workflows recover more reliably across interruptions while preserving paid task identity, accepted reviews, and actionable failure details.\n- Parallel asset work uses shared capacity more efficiently and keeps dependency progress moving as each task settles.\n- Story authoring and playback now preserve inner thoughts, opening scripts, media references, and native editing interactions more consistently.\n- Project Skills and independent experience reviews are delivered more consistently without interrupting ordinary authoring conversations.",
+  "releaseNotesZh": "- Agent 现会说明模型服务重试等待，并在临时网关故障后及时恢复，不再遗留过期的等待状态。\n- 长时间素材生产在中断后可更可靠地续接，并保留付费任务身份、已采纳审核结果与可操作的失败详情。\n- 并行素材任务会更高效地共享执行容量，并在每项任务完成后持续推进依赖工作。\n- 故事创作与播放现会更一致地保留内心独白、开场脚本、媒体引用及原生编辑交互。\n- 项目 Skill 与独立体验审查的交付更加稳定，同时不会打断普通创作对话。"
 }
