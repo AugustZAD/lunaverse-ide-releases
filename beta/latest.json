@@ -1,13 +1,13 @@
 {
-  "commit": "d6da7d950b57b1d071b07e5d87fd8bc327a6d75a",
-  "productVersion": "2.0.4",
-  "releaseSequence": "41",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.4/Lunaverse-2.0.4-r41.zip",
-  "sha256": "6441494b10a33735ef7b4f3abe5123907879c29847409362c569f8087e1419f7",
-  "size": 630828911,
-  "timestamp": 1789612555322,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.4",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.4-r41.zip",
-  "releaseNotes": "- Release Center can now be completed from the keyboard and stays usable at 200% zoom.\n- Interrupted production can resume from the suggested next step, first checking the original paid task so work is not submitted twice.\n- Large project uploads now split into safe batches and keep the original transfer protocol after a restart, instead of silently falling back to the old path.\n- Publishing now uploads only the missing project files more reliably, including very large media, without loading the whole book into memory.\n- Story review Skills now run as independent checks alongside CLI evaluation, so leftover review work no longer blocks ordinary authoring.",
-  "releaseNotesZh": "- 发布中心现可通过键盘走完操作，并在 200% 缩放下保持可用。\n- 中断的素材生产可按建议步骤恢复，并先核对原任务，避免重复付费。\n- 大型项目上传会拆成安全批次，中断后仍按原协议续传，不会悄悄改成旧通道。\n- 发布现会更可靠地只上传缺失的项目文件，包括超大媒体，且不会把整本书装进内存。\n- 故事审查 Skill 现可与 CLI 评估并行独立执行，遗留审查工作不再打断普通创作。"
+  "commit": "0c8d226ac6809778a7a98aa59ba824212799f68e",
+  "productVersion": "2.0.5",
+  "releaseSequence": "42",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.5/Lunaverse-2.0.5-r42.zip",
+  "sha256": "951cf96355e184f624d44c078785a4aaadf84227d5b5700de3a48d4f2d7044f6",
+  "size": 630861243,
+  "timestamp": 1789685613864,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.5",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.5-r42.zip",
+  "releaseNotes": "- Agent now recovers more reliably from temporary model congestion while keeping one bounded recovery budget and showing the real failure when recovery cannot continue.\n- Newly published model and Skill catalogs are picked up without disrupting active sessions, while saved conversations remain usable across catalog changes.\n- Image attachments and previews stay available throughout live Agent conversations, including supported DeepSeek Flash image input.\n- Story adaptation checks now derive choices, character introductions, world context, and review results from their authoritative project records more consistently.\n- Recovered production failures no longer leave duplicate tools or stale failure cards, while independent failures keep their actionable evidence.",
+  "releaseNotesZh": "- Agent 现可更可靠地从临时模型拥堵中恢复，并统一控制恢复次数；无法继续时会展示真实失败原因。\n- 新发布的模型与 Skill 目录可在不中断当前会话的情况下生效，目录变化后已保存对话仍可继续使用。\n- 图片附件与预览会在 Agent 实时对话中持续保留，并支持可用的 DeepSeek Flash 图片输入。\n- 故事改编检查现会更一致地从项目权威记录中读取选项、人物登场、世界背景与审查结论。\n- 已恢复的生产失败不再遗留重复工具或过期失败卡片，独立失败仍会保留可操作的诊断证据。"
 }
