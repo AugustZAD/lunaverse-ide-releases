@@ -1,13 +1,13 @@
 {
-  "commit": "0c8d226ac6809778a7a98aa59ba824212799f68e",
-  "productVersion": "2.0.5",
-  "releaseSequence": "42",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.5/Lunaverse-2.0.5-r42.zip",
-  "sha256": "951cf96355e184f624d44c078785a4aaadf84227d5b5700de3a48d4f2d7044f6",
-  "size": 630861243,
-  "timestamp": 1789685613864,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.5",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.5-r42.zip",
-  "releaseNotes": "- Agent now recovers more reliably from temporary model congestion while keeping one bounded recovery budget and showing the real failure when recovery cannot continue.\n- Newly published model and Skill catalogs are picked up without disrupting active sessions, while saved conversations remain usable across catalog changes.\n- Image attachments and previews stay available throughout live Agent conversations, including supported DeepSeek Flash image input.\n- Story adaptation checks now derive choices, character introductions, world context, and review results from their authoritative project records more consistently.\n- Recovered production failures no longer leave duplicate tools or stale failure cards, while independent failures keep their actionable evidence.",
-  "releaseNotesZh": "- Agent 现可更可靠地从临时模型拥堵中恢复，并统一控制恢复次数；无法继续时会展示真实失败原因。\n- 新发布的模型与 Skill 目录可在不中断当前会话的情况下生效，目录变化后已保存对话仍可继续使用。\n- 图片附件与预览会在 Agent 实时对话中持续保留，并支持可用的 DeepSeek Flash 图片输入。\n- 故事改编检查现会更一致地从项目权威记录中读取选项、人物登场、世界背景与审查结论。\n- 已恢复的生产失败不再遗留重复工具或过期失败卡片，独立失败仍会保留可操作的诊断证据。"
+  "commit": "a4a0be096b2452703fe9282eaf2bab2159399676",
+  "productVersion": "2.0.6",
+  "releaseSequence": "43",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.6/Lunaverse-2.0.6-r43.zip",
+  "sha256": "b0d41c2ef957a6c4eca4664a5144eb35d74318495b56b710dbd313a59fd780e4",
+  "size": 631195627,
+  "timestamp": 1789957843618,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.6",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.6-r43.zip",
+  "releaseNotes": "- Agent now keeps real recovery evidence and continues useful work after recoverable failures instead of handing ordinary decisions back to the user.\n- Image production avoids duplicate paid submissions while allowing independent assets to use shared capacity concurrently.\n- Image review model selection now follows the live gateway catalog and defaults to GPT-5.6 Sol when available.\n- Interrupted uploads and project transfers recover through the configured proxy without replaying paid production tasks.\n- Unused assets stay cleared, cover receipts remain scoped, and retryable voice and editing conflicts preserve actionable details.",
+  "releaseNotesZh": "- Agent 现会保留真实恢复证据，并在可恢复失败后继续推进，不再把普通判断反复交还给用户。\n- 图片生产现可避免重复付费提交，同时允许彼此独立的素材共享容量并发执行。\n- 图片审核模型现会跟随实时网关目录，并在可用时默认使用 GPT-5.6 Sol。\n- 上传与项目传输中断后可通过既有代理恢复，并避免重复执行付费生产任务。\n- 未使用素材会保持清理状态，封面回执范围更准确，配音重试与编辑冲突也会保留可操作详情。"
 }
