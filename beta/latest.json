@@ -1,13 +1,13 @@
 {
-  "commit": "a4a0be096b2452703fe9282eaf2bab2159399676",
-  "productVersion": "2.0.6",
-  "releaseSequence": "43",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.6/Lunaverse-2.0.6-r43.zip",
-  "sha256": "b0d41c2ef957a6c4eca4664a5144eb35d74318495b56b710dbd313a59fd780e4",
-  "size": 631195627,
-  "timestamp": 1789957843618,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.6",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.6-r43.zip",
-  "releaseNotes": "- Agent now keeps real recovery evidence and continues useful work after recoverable failures instead of handing ordinary decisions back to the user.\n- Image production avoids duplicate paid submissions while allowing independent assets to use shared capacity concurrently.\n- Image review model selection now follows the live gateway catalog and defaults to GPT-5.6 Sol when available.\n- Interrupted uploads and project transfers recover through the configured proxy without replaying paid production tasks.\n- Unused assets stay cleared, cover receipts remain scoped, and retryable voice and editing conflicts preserve actionable details.",
-  "releaseNotesZh": "- Agent 现会保留真实恢复证据，并在可恢复失败后继续推进，不再把普通判断反复交还给用户。\n- 图片生产现可避免重复付费提交，同时允许彼此独立的素材共享容量并发执行。\n- 图片审核模型现会跟随实时网关目录，并在可用时默认使用 GPT-5.6 Sol。\n- 上传与项目传输中断后可通过既有代理恢复，并避免重复执行付费生产任务。\n- 未使用素材会保持清理状态，封面回执范围更准确，配音重试与编辑冲突也会保留可操作详情。"
+  "commit": "80a287f0b4a43827c1b3b07d2cdafe814e78a70c",
+  "productVersion": "2.0.7",
+  "releaseSequence": "44",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.7/Lunaverse-2.0.7-r44.zip",
+  "sha256": "beddb46601eac0ed42796d3bdfc0b8fd70b67a6358d443f8046d8f0d291eb157",
+  "size": 644198986,
+  "timestamp": 1790213802105,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.7",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.7-r44.zip",
+  "releaseNotes": "- Updates expose actual failures, retry temporary network interruptions, and check Mac disk space before downloading with clearer restart guidance.\n- Mac and Windows installers are available together on the same GitHub release page.\n- Paged Agent history improves long-conversation navigation while preserving session UI state.\n- Material descriptions and production entry points are more consistent, with references to ungenerated assets and clearer progress and failure details.\n- The Agent can inspect and resume existing creative evaluations and reuse delivered files instead of repeating preparation.",
+  "releaseNotesZh": "- 更新失败会显示实际原因；临时网络中断可自动重试，Mac 更新前会检查磁盘空间，并明确提示重启安装。\n- Mac 与 Windows 安装包统一显示在同一个 GitHub 版本下载页。\n- Agent 历史记录分段加载，长对话回看更流畅，并保留会话界面状态。\n- 素材描述和生成入口更加一致，未生成素材也可引用给 Agent，生产进度与失败原因更清晰。\n- Agent 可读取并继续已有的创作评估，复用现有交付文件，减少重复准备。"
 }
