@@ -1,13 +1,13 @@
 {
-  "commit": "0c8d226ac6809778a7a98aa59ba824212799f68e",
-  "productVersion": "2.0.5",
-  "releaseSequence": "42",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.5/Lunaverse-2.0.5-r42.zip",
-  "sha256": "951cf96355e184f624d44c078785a4aaadf84227d5b5700de3a48d4f2d7044f6",
-  "size": 630861243,
-  "timestamp": 1789685613864,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.5",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.5-r42.zip",
-  "releaseNotes": "- Agent now recovers more reliably from temporary model congestion while keeping one bounded recovery budget and showing the real failure when recovery cannot continue.\n- Newly published model and Skill catalogs are picked up without disrupting active sessions, while saved conversations remain usable across catalog changes.\n- Image attachments and previews stay available throughout live Agent conversations, including supported DeepSeek Flash image input.\n- Story adaptation checks now derive choices, character introductions, world context, and review results from their authoritative project records more consistently.\n- Recovered production failures no longer leave duplicate tools or stale failure cards, while independent failures keep their actionable evidence.",
-  "releaseNotesZh": "- Agent 现可更可靠地从临时模型拥堵中恢复，并统一控制恢复次数；无法继续时会展示真实失败原因。\n- 新发布的模型与 Skill 目录可在不中断当前会话的情况下生效，目录变化后已保存对话仍可继续使用。\n- 图片附件与预览会在 Agent 实时对话中持续保留，并支持可用的 DeepSeek Flash 图片输入。\n- 故事改编检查现会更一致地从项目权威记录中读取选项、人物登场、世界背景与审查结论。\n- 已恢复的生产失败不再遗留重复工具或过期失败卡片，独立失败仍会保留可操作的诊断证据。"
+  "commit": "0597ab75d170812763fddd22e8eecab856995dff",
+  "productVersion": "2.0.9",
+  "releaseSequence": "46",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.9/Lunaverse-2.0.9-r46.zip",
+  "sha256": "ddea0e243c48575dae10fa3e4eb502569e56a923001d8acb9852f7a55a88c4ac",
+  "size": 644199453,
+  "timestamp": 1790221239361,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.9",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.9-r46.zip",
+  "releaseNotes": "- Updates expose actual failures, retry temporary network interruptions, and check Mac disk space before downloading with clearer restart guidance.\n- Mac and Windows installers are available together on the same GitHub release page.\n- Paged Agent history improves long-conversation navigation while preserving session UI state.\n- Material descriptions and production entry points are more consistent, with references to ungenerated assets and clearer progress and failure details.\n- The Agent can inspect and resume existing creative evaluations and reuse delivered files instead of repeating preparation.",
+  "releaseNotesZh": "- 更新失败会显示实际原因；临时网络中断可自动重试，Mac 更新前会检查磁盘空间，并明确提示重启安装。\n- Mac 与 Windows 安装包统一显示在同一个 GitHub 版本下载页。\n- Agent 历史记录分段加载，长对话回看更流畅，并保留会话界面状态。\n- 素材描述和生成入口更加一致，未生成素材也可引用给 Agent，生产进度与失败原因更清晰。\n- Agent 可读取并继续已有的创作评估，复用现有交付文件，减少重复准备。"
 }
