@@ -1,13 +1,13 @@
 {
-  "commit": "0597ab75d170812763fddd22e8eecab856995dff",
-  "productVersion": "2.0.9",
-  "releaseSequence": "46",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v2.0.9/Lunaverse-2.0.9-r46.zip",
-  "sha256": "ddea0e243c48575dae10fa3e4eb502569e56a923001d8acb9852f7a55a88c4ac",
-  "size": 644199453,
-  "timestamp": 1790221239361,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v2.0.9",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-2.0.9-r46.zip",
-  "releaseNotes": "- Updates expose actual failures, retry temporary network interruptions, and check Mac disk space before downloading with clearer restart guidance.\n- Mac and Windows installers are available together on the same GitHub release page.\n- Paged Agent history improves long-conversation navigation while preserving session UI state.\n- Material descriptions and production entry points are more consistent, with references to ungenerated assets and clearer progress and failure details.\n- The Agent can inspect and resume existing creative evaluations and reuse delivered files instead of repeating preparation.",
-  "releaseNotesZh": "- 更新失败会显示实际原因；临时网络中断可自动重试，Mac 更新前会检查磁盘空间，并明确提示重启安装。\n- Mac 与 Windows 安装包统一显示在同一个 GitHub 版本下载页。\n- Agent 历史记录分段加载，长对话回看更流畅，并保留会话界面状态。\n- 素材描述和生成入口更加一致，未生成素材也可引用给 Agent，生产进度与失败原因更清晰。\n- Agent 可读取并继续已有的创作评估，复用现有交付文件，减少重复准备。"
+  "commit": "35db72386003415f9072a1ff2fa185f50557013e",
+  "productVersion": "0.0.9",
+  "releaseSequence": "48",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.9-r48/Lunaverse-0.0.9-r48.zip",
+  "sha256": "6789ca45f9a99870d74a01bb51b29fde440c0ecc64ea7e837b27214fabb46d1a",
+  "size": 644241017,
+  "timestamp": 1791403316916,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.9-r48",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.9-r48.zip",
+  "releaseNotes": "- Book asset uploads retain progress after temporary connection failures, and cancellation takes effect before the next part or retry.\n- If the response to completing an upload batch is lost, the IDE checks the original task and retries a limited number of times, reducing duplicate uploads and false failures.\n- Character production can continue when gender information is missing, with fewer repeated history and image checks when browsing assets or opening the Agent.\n- Interrupted asset production now offers manual actions to check and retrieve the original task's result before continuing unfinished steps, reducing repeated generation.\n- Book exports copy assets one at a time to reduce open-file usage and replace the previous export only after every copy succeeds.\n- Book publishing no longer scans past jobs at startup or repeatedly checks them while idle; opening a job still retrieves its latest status.\n- Agent compilation caches stay in the user runtime directory, preserving the installed app signature after startup and reducing update failures.",
+  "releaseNotesZh": "- 书籍素材上传遇到临时连接故障时会保留已上传进度；取消操作会在下一分片或重试前生效。\n- 上传分片合并的响应丢失时，会先查询原任务结果并有限重试，减少重复上传和误报失败。\n- 人物生产减少不必要的资料门槛，缺少性别信息时仍可继续；浏览素材和打开 Agent 时也减少了重复的历史与图片检查。\n- 中断的素材生产可手动查询和取回原任务结果，再继续未完成的步骤，减少重复生成。\n- 书籍导出逐项复制素材，减少同时占用的文件；全部复制成功后才替换上一份导出。\n- 书籍发布任务不再在启动时扫描历史记录或闲置时重复查询；主动查看任务时仍可获取最新状态。\n- Agent 编译缓存保存在用户运行目录，启动后保持安装包签名完整，减少更新异常。"
 }
