@@ -1,13 +1,13 @@
 {
-  "commit": "6b24f5d5d7d596fc08dc08ccf14dcb83b58282a3",
+  "commit": "938d8add31e83f142ce0c5bfcf6c67c550061f0e",
   "productVersion": "0.0.9",
-  "releaseSequence": "49",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.9-r49/Lunaverse-0.0.9-r49.zip",
-  "sha256": "a38f893fd978f34a6211b61514040e811736d3a6a4290e07764b3257c3605106",
-  "size": 640845305,
-  "timestamp": 1791410527799,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.9-r49",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.9-r49.zip",
-  "releaseNotes": "- Book asset uploads retain progress after temporary connection failures, and cancellation takes effect before the next part or retry.\n- If the response to completing an upload batch is lost, the IDE checks the original task and retries a limited number of times, reducing duplicate uploads and false failures.\n- Character production can continue when gender information is missing, with fewer repeated history and image checks when browsing assets or opening the Agent.\n- Interrupted asset production now offers manual actions to check and retrieve the original task's result before continuing unfinished steps, reducing repeated generation.\n- Book exports copy assets one at a time to reduce open-file usage and replace the previous export only after every copy succeeds.\n- Book publishing no longer scans past jobs at startup or repeatedly checks them while idle; opening a job still retrieves its latest status.\n- Agent compilation caches stay in the user runtime directory, preserving the installed app signature after startup and reducing update failures.\n- Installers omit retired demo-book revision archives to prevent Windows installation failures caused by overly long default paths.",
-  "releaseNotesZh": "- 书籍素材上传遇到临时连接故障时会保留已上传进度；取消操作会在下一分片或重试前生效。\n- 上传分片合并的响应丢失时，会先查询原任务结果并有限重试，减少重复上传和误报失败。\n- 人物生产减少不必要的资料门槛，缺少性别信息时仍可继续；浏览素材和打开 Agent 时也减少了重复的历史与图片检查。\n- 中断的素材生产可手动查询和取回原任务结果，再继续未完成的步骤，减少重复生成。\n- 书籍导出逐项复制素材，减少同时占用的文件；全部复制成功后才替换上一份导出。\n- 书籍发布任务不再在启动时扫描历史记录或闲置时重复查询；主动查看任务时仍可获取最新状态。\n- Agent 编译缓存保存在用户运行目录，启动后保持安装包签名完整，减少更新异常。\n- 安装包不再携带示例书的停用历史归档，避免 Windows 默认安装路径过长导致安装中止。"
+  "releaseSequence": "50",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.9-r50/Lunaverse-0.0.9-r50.zip",
+  "sha256": "2425185a1abe8b7fed455e227ba20458367ff6b58447521c8cdcf07410eba82c",
+  "size": 641303079,
+  "timestamp": 1791419178517,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.9-r50",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.9-r50.zip",
+  "releaseNotes": "- Book asset uploads retain progress after temporary connection failures, and cancellation takes effect before the next part or retry.\n- If the response to completing an upload batch is lost, the IDE checks the original task and retries a limited number of times, reducing duplicate uploads and false failures.\n- Character production can continue when gender information is missing, with fewer repeated history and image checks when browsing assets or opening the Agent.\n- Interrupted asset production now offers manual actions to check and retrieve the original task's result before continuing unfinished steps, reducing repeated generation.\n- Book exports copy assets one at a time to reduce open-file usage and replace the previous export only after every copy succeeds.\n- Book publishing no longer scans past jobs at startup or repeatedly checks them while idle; opening a job still retrieves its latest status.\n- Agent compilation caches stay in the user runtime directory, preserving the installed app signature after startup and reducing update failures.\n- Installers omit retired demo-book revision archives to prevent Windows installation failures caused by overly long default paths.\n- After first sign-in, a startup window remains open until the workbench is created, preventing Windows from quitting during the handoff.",
+  "releaseNotesZh": "- 书籍素材上传遇到临时连接故障时会保留已上传进度；取消操作会在下一分片或重试前生效。\n- 上传分片合并的响应丢失时，会先查询原任务结果并有限重试，减少重复上传和误报失败。\n- 人物生产减少不必要的资料门槛，缺少性别信息时仍可继续；浏览素材和打开 Agent 时也减少了重复的历史与图片检查。\n- 中断的素材生产可手动查询和取回原任务结果，再继续未完成的步骤，减少重复生成。\n- 书籍导出逐项复制素材，减少同时占用的文件；全部复制成功后才替换上一份导出。\n- 书籍发布任务不再在启动时扫描历史记录或闲置时重复查询；主动查看任务时仍可获取最新状态。\n- Agent 编译缓存保存在用户运行目录，启动后保持安装包签名完整，减少更新异常。\n- 安装包不再携带示例书的停用历史归档，避免 Windows 默认安装路径过长导致安装中止。\n- 首次登录成功后会先建立启动窗口，再交接到工作台，避免 Windows 在两者之间退出。"
 }
