@@ -1,13 +1,13 @@
 {
-  "commit": "938d8add31e83f142ce0c5bfcf6c67c550061f0e",
-  "productVersion": "0.0.9",
-  "releaseSequence": "50",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.9-r50/Lunaverse-0.0.9-r50.zip",
-  "sha256": "2425185a1abe8b7fed455e227ba20458367ff6b58447521c8cdcf07410eba82c",
-  "size": 641303079,
-  "timestamp": 1791419178517,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.9-r50",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.9-r50.zip",
-  "releaseNotes": "- Book asset uploads retain progress after temporary connection failures, and cancellation takes effect before the next part or retry.\n- If the response to completing an upload batch is lost, the IDE checks the original task and retries a limited number of times, reducing duplicate uploads and false failures.\n- Character production can continue when gender information is missing, with fewer repeated history and image checks when browsing assets or opening the Agent.\n- Interrupted asset production now offers manual actions to check and retrieve the original task's result before continuing unfinished steps, reducing repeated generation.\n- Book exports copy assets one at a time to reduce open-file usage and replace the previous export only after every copy succeeds.\n- Book publishing no longer scans past jobs at startup or repeatedly checks them while idle; opening a job still retrieves its latest status.\n- Agent compilation caches stay in the user runtime directory, preserving the installed app signature after startup and reducing update failures.\n- Installers omit retired demo-book revision archives to prevent Windows installation failures caused by overly long default paths.\n- After first sign-in, a startup window remains open until the workbench is created, preventing Windows from quitting during the handoff.",
-  "releaseNotesZh": "- 书籍素材上传遇到临时连接故障时会保留已上传进度；取消操作会在下一分片或重试前生效。\n- 上传分片合并的响应丢失时，会先查询原任务结果并有限重试，减少重复上传和误报失败。\n- 人物生产减少不必要的资料门槛，缺少性别信息时仍可继续；浏览素材和打开 Agent 时也减少了重复的历史与图片检查。\n- 中断的素材生产可手动查询和取回原任务结果，再继续未完成的步骤，减少重复生成。\n- 书籍导出逐项复制素材，减少同时占用的文件；全部复制成功后才替换上一份导出。\n- 书籍发布任务不再在启动时扫描历史记录或闲置时重复查询；主动查看任务时仍可获取最新状态。\n- Agent 编译缓存保存在用户运行目录，启动后保持安装包签名完整，减少更新异常。\n- 安装包不再携带示例书的停用历史归档，避免 Windows 默认安装路径过长导致安装中止。\n- 首次登录成功后会先建立启动窗口，再交接到工作台，避免 Windows 在两者之间退出。"
+  "commit": "0f7e27cb0eaa56467e3e39adb5b95753ebc2d780",
+  "productVersion": "0.0.10",
+  "releaseSequence": "51",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.10-r51/Lunaverse-0.0.10-r51.zip",
+  "sha256": "2fe612041cdb1e74725e5df2e65bafb4300298de20a23b033beb3ec0aa998fc4",
+  "size": 645422381,
+  "timestamp": 1792321451784,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.10-r51",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.10-r51.zip",
+  "releaseNotes": "- The Demo offers hands-on guided learning with resumable editing and publishing practice.\n- Studio improves dialogue, choice and phone-message editing with previews of the selected content.\n- Start an original project from an idea, retain its conversation, and inspect Agent file changes in readonly diffs.\n- Projects gain story-aware title suggestions and history, plus shared-project checkout and safe synchronization.\n- Voice casting explains selection methods, supports uploaded recording auditions and cloning, and improves narrow layouts and upload status.\n- New outfits and expression sprites can be produced and inspected before script usage; chat image cards open in a larger preview and remain available after restart.\n- Account costs distinguish confirmed and pending usage while keeping the interface focused.",
+  "releaseNotesZh": "- Demo 提供分阶段动手引导，可暂停并继续编辑与发布演练。\n- Studio 改善对白、选项和手机消息编辑，并准确预览当前选中内容。\n- 可以从一句创作想法开始原创项目，保留项目对话，并查看 Agent 改动文件与只读差异。\n- 作品支持结合故事的名字建议和历史记录，协作项目可检出与安全同步。\n- 配音页面说明选角方式，支持上传录音试听与克隆，并改善窄分栏布局和上传状态。\n- 尚未用于剧本的新服装和剧情立绘也能生成、查看；聊天图片卡片可放大，并在重启后保留预览。\n- 账户费用区分已确认与待结算用量，界面减少无关诊断信息。"
 }
