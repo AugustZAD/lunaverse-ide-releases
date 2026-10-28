@@ -1,13 +1,13 @@
 {
-  "commit": "62157e608702840ceb9d8d0aced345a8e2b7adb3",
-  "productVersion": "0.0.11",
-  "releaseSequence": "53",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.11-r53/Lunaverse-0.0.11-r53.zip",
-  "sha256": "534fef2bddae260af01288c5fc45de10db4af4a66f9d9e86805e57a3dfab940c",
-  "size": 522934484,
-  "timestamp": 1793126645793,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.11-r53",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.11-r53.zip",
-  "releaseNotes": "- Dialogue audio supports filtering, batch voice selection and generation, line-by-line tuning and explicit adoption while preserving recordings and recoverable work.\n- Illustrations and videos have distinct browsing and creation workflows while existing assets and playback remain compatible.\n- Upload local assets directly from the Gallery and ask the Agent to adapt them, with more reliable selection and related-asset refresh.\n- Preview and the standalone player improve dialogue audio, choices, backgrounds and media rendering while avoiding unchanged refreshes.\n- Publishing reuses adopted dialogue audio without synthesizing new speech; missing audio is clearly reported without blocking text-only publication.\n- Shared Projects can open a maintenance copy of the effective live version, preserving existing assets, covers and project metadata more reliably.\n- Temporary storage controls, improved video-task recovery and support for available Claude Opus 5.5 adaptive thinking are included.",
-  "releaseNotesZh": "- 台词配音支持筛选、批量选声与生成、逐句精修及明确采用，保留已有录音和待恢复任务。\n- 插画与视频分开展示和创作，保留旧素材兼容与已有播放成果。\n- 可在素材页直接上传本地素材，并让 Agent 帮助适配；选择与关联素材刷新更可靠。\n- 预览与独立播放器改善对白音频、选项、背景和媒体显示，并减少无变化时的重复刷新。\n- 发布复用已采用的配音，不自动合成；缺少配音会明确提示，但不阻止无配音发布。\n- 共享项目可打开线上有效版本的维护副本，发布时更可靠地保留现有素材、封面和作品信息。\n- 新增临时存储管理，改进视频任务恢复，并支持可用的 Claude Opus 5.5 自适应思考。"
+  "commit": "f645b66f92a0bd2fff1c6855aaa51edaa95fa1fd",
+  "productVersion": "0.0.12",
+  "releaseSequence": "54",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.12-r54/Lunaverse-0.0.12-r54.zip",
+  "sha256": "adc9487f92e2bc194201eda13a9151390ae14e166cb41efbabf33aac1d6899b6",
+  "size": 522973196,
+  "timestamp": 1793212330501,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.12-r54",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.12-r54.zip",
+  "releaseNotes": "- Filter and generate dialogue audio in batches, tune individual lines and explicitly adopt takes while preserving recordings and avoiding automatic replacement or regeneration.\n- Fix preview access to adopted recordings in the project library, improve episode continuation, and move audio tuning into a side sheet with a clear return to playback.\n- Browse illustrations and videos separately, upload local files for an adaptation preview or hand them to the Agent, and cancel without replacing the original asset.\n- Publishing reuses adopted takes; missing audio is a warning and retains text without automatically paying to generate speech.\n- The Demo's guided practice teaches scenes, dialogue, phone messages, choices and story markers step by step while preserving the original script.\n- Shared Projects offer safe version browsing and synchronization; account storage controls show temporary-file usage while distinguishing projects from disposable caches.\n- Improve sign-out recovery feedback, image-request failure details and thinking options for available Claude Opus 5.5 models.",
+  "releaseNotesZh": "- 台词配音支持筛选、批量生成、逐句调整和明确采用；保留已有录音，不自动替换或重复生成。\n- 修复预览无法读取作品目录中已采用配音的问题，改进连续剧集播放；配音调整收进侧栏，可明确返回试玩。\n- 插画与视频分别浏览，可从素材页上传本地文件、查看适配预览，或交给 Agent 处理；取消不会覆盖原素材。\n- 发布复用已采用配音；缺配音仅提醒并保留文字，不会自动付费补齐。\n- Demo 新手引导提供逐步动手练习，覆盖场景、对白、手机消息、选项与剧情标记，保留原剧本。\n- 共享项目支持安全查看和同步版本；账户页可查看临时文件占用，并明确区分作品与可清理缓存。\n- 改进退出登录的恢复提示、图片请求失败详情和可用 Claude Opus 5.5 的思考选项。"
 }
