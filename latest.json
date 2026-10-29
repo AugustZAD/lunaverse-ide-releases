@@ -1,13 +1,13 @@
 {
-  "commit": "0f7e27cb0eaa56467e3e39adb5b95753ebc2d780",
-  "productVersion": "0.0.10",
-  "releaseSequence": "51",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.10-r51/Lunaverse-0.0.10-r51.zip",
-  "sha256": "2fe612041cdb1e74725e5df2e65bafb4300298de20a23b033beb3ec0aa998fc4",
-  "size": 645422381,
-  "timestamp": 1792321451784,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.10-r51",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.10-r51.zip",
-  "releaseNotes": "- The Demo offers hands-on guided learning with resumable editing and publishing practice.\n- Studio improves dialogue, choice and phone-message editing with previews of the selected content.\n- Start an original project from an idea, retain its conversation, and inspect Agent file changes in readonly diffs.\n- Projects gain story-aware title suggestions and history, plus shared-project checkout and safe synchronization.\n- Voice casting explains selection methods, supports uploaded recording auditions and cloning, and improves narrow layouts and upload status.\n- New outfits and expression sprites can be produced and inspected before script usage; chat image cards open in a larger preview and remain available after restart.\n- Account costs distinguish confirmed and pending usage while keeping the interface focused.",
-  "releaseNotesZh": "- Demo 提供分阶段动手引导，可暂停并继续编辑与发布演练。\n- Studio 改善对白、选项和手机消息编辑，并准确预览当前选中内容。\n- 可以从一句创作想法开始原创项目，保留项目对话，并查看 Agent 改动文件与只读差异。\n- 作品支持结合故事的名字建议和历史记录，协作项目可检出与安全同步。\n- 配音页面说明选角方式，支持上传录音试听与克隆，并改善窄分栏布局和上传状态。\n- 尚未用于剧本的新服装和剧情立绘也能生成、查看；聊天图片卡片可放大，并在重启后保留预览。\n- 账户费用区分已确认与待结算用量，界面减少无关诊断信息。"
+  "commit": "dfec6349823a1a86059a2544323a2c56785f9cd5",
+  "productVersion": "0.0.13",
+  "releaseSequence": "55",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.13-r55/Lunaverse-0.0.13-r55.zip",
+  "sha256": "fba7cfceba3b23c4a3db48d2bdee02ae7bec299aa05342094d3454b8a8a67520",
+  "size": 522974464,
+  "timestamp": 1793243211725,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.13-r55",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.13-r55.zip",
+  "releaseNotes": "- Publishing multiple episodes no longer stages the entire media library for every episode; local exports reuse identical asset copies to reduce disk usage.\n- Filter, batch-generate, tune and explicitly adopt dialogue takes while preserving existing recordings and avoiding automatic replacement or regeneration.\n- Fix access to adopted recordings in the project library, improve episode continuation, and return clearly from audio tuning to playback.\n- Browse illustrations and videos separately, preview local adaptations or hand assets to the Agent, and cancel without replacing originals.\n- Publishing reuses adopted takes; missing speech produces a warning and retains text without automatically paying for generation.\n- The Demo guides hands-on scene, dialogue, phone, choice and story-marker practice in a separate script that protects the original.\n- Browse and synchronize shared-project versions, distinguish temporary caches from works, and improve sign-in recovery, image errors and available model thinking options.",
+  "releaseNotesZh": "- 发布多集作品时不再逐集重复暂存整本素材；本地导出也会复用相同素材副本，减少磁盘占用。\n- 台词配音支持筛选、批量生成、逐句调整和明确采用，保留已有录音，避免自动替换或重复生成。\n- 修复预览读取作品目录中已采用配音的问题，改进连续播放；可从配音调整侧栏明确返回试玩。\n- 插画与视频分开展示，支持本地素材适配预览和交给 Agent 处理；取消不会覆盖原素材。\n- 发布复用已采用配音，缺少配音只提醒并保留文字，不自动付费补齐。\n- Demo 动手引导覆盖场景、对白、手机消息、选项和剧情标记，使用独立练习稿保护原剧本。\n- 共享项目支持查看和同步版本；账户页区分临时缓存与作品，改进登录恢复、图片错误反馈和可用模型的思考选项。"
 }
