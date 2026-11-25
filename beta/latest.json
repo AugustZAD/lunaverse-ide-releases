@@ -1,13 +1,13 @@
 {
-  "commit": "4d90745494431d71343551736108551222d0d4fb",
-  "productVersion": "0.0.13",
-  "releaseSequence": "56",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.13-r56/Lunaverse-0.0.13-r56.zip",
-  "sha256": "55ba6434fd0b1ca0f3f81e59e380fc19a2da65b26c676bb7435f290e3cca5b5b",
-  "size": 523625930,
-  "timestamp": 1793796151734,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.13-r56",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.13-r56.zip",
-  "releaseNotes": "- Publishing multiple episodes no longer stages the entire media library for every episode; local exports reuse identical asset copies to reduce disk usage.\n- Filter, batch-generate, tune and explicitly adopt dialogue takes while preserving existing recordings and avoiding automatic replacement or regeneration.\n- Fix access to adopted recordings in the project library, improve episode continuation, and return clearly from audio tuning to playback.\n- Browse illustrations and videos separately, preview local adaptations or hand assets to the Agent, and cancel without replacing originals.\n- Publishing reuses adopted takes; missing speech produces a warning and retains text without automatically paying for generation.\n- The Demo guides hands-on scene, dialogue, phone, choice and story-marker practice in a separate script that protects the original.\n- Browse and synchronize shared-project versions, distinguish temporary caches from works, and improve sign-in recovery, image errors and available model thinking options.",
-  "releaseNotesZh": "- 发布多集作品时不再逐集重复暂存整本素材；本地导出也会复用相同素材副本，减少磁盘占用。\n- 台词配音支持筛选、批量生成、逐句调整和明确采用，保留已有录音，避免自动替换或重复生成。\n- 修复预览读取作品目录中已采用配音的问题，改进连续播放；可从配音调整侧栏明确返回试玩。\n- 插画与视频分开展示，支持本地素材适配预览和交给 Agent 处理；取消不会覆盖原素材。\n- 发布复用已采用配音，缺少配音只提醒并保留文字，不自动付费补齐。\n- Demo 动手引导覆盖场景、对白、手机消息、选项和剧情标记，使用独立练习稿保护原剧本。\n- 共享项目支持查看和同步版本；账户页区分临时缓存与作品，改进登录恢复、图片错误反馈和可用模型的思考选项。"
+  "commit": "5f2d43cbd6fa2247898ee62d3f6ed378b95a3624",
+  "productVersion": "0.0.14",
+  "releaseSequence": "57",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.14-r57/Lunaverse-0.0.14-r57.zip",
+  "sha256": "80be326fc1878a4543b76b5bf7e30db0b6e44ef9ab146cb5396638873d8451c7",
+  "size": 540214431,
+  "timestamp": 1795631211053,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.14-r57",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.14-r57.zip",
+  "releaseNotes": "- Large projects upload more assets in parallel and can reuse identical staged files after an interruption.\n- Publishing identifies adopted recordings whose files are missing and lets you publish the affected lines as text.\n- Upload errors distinguish a full temporary storage volume from an exhausted account quota.",
+  "releaseNotesZh": "- 发布大型作品时可并行上传更多素材，中断后可复用已暂存的相同文件。\n- 发布时会提示已采用但文件缺失的配音，相应台词仍可按文字发布。\n- 上传失败时会区分服务器临时空间不足与账户配额用尽。"
 }
