@@ -1,13 +1,13 @@
 {
-  "commit": "779045f8fa9745e6fda7432c5f319c0ac8a71023",
+  "commit": "b51df6df60cb246c7eec40550a5133e88db4df81",
   "productVersion": "0.0.15",
-  "releaseSequence": "58",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.15-r58/Lunaverse-0.0.15-r58.zip",
-  "sha256": "c27bfc8f65fa30e7366181b576a8d7e949c013f45aae56bb767cf88c31e801ea",
-  "size": 540242271,
-  "timestamp": 1795705713091,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.15-r58",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.15-r58.zip",
-  "releaseNotes": "- Gateway policy moves after sign-in keep you signed in. If the session is missing, the app returns to the full-screen sign-in page instead of staying inside the editor unsigned in.\n- The account page can change your password in a dialog.",
-  "releaseNotesZh": "- 登录后按账号策略切换网关时会保留登录状态；会话失效时回到全屏登录页，不再停在编辑器里显示未登录。\n- 账号页支持在对话框中修改密码。"
+  "releaseSequence": "59",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.15-r59/Lunaverse-0.0.15-r59.zip",
+  "sha256": "2d4d34993427c316ae7daf32d008a61f789614c927f6bf0fc32bf8d37e964f8a",
+  "size": 540266412,
+  "timestamp": 1795711133335,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.15-r59",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.15-r59.zip",
+  "releaseNotes": "- Gateway policy moves after sign-in keep you signed in. If the session is missing, the app returns to the full-screen sign-in page instead of staying inside the editor unsigned in.\n- The account page can change your password in a dialog.\n- First-time item image orders are no longer rejected for missing optional image fields.\n- Outfit-anchor image orders no longer send the same character portrait to the model twice.\n- Character portrait identity is restored from the resource inventory, so outfit anchors are no longer rejected for a missing portrait path.\n- Unregistered items are blocked before image generation, and publish failures keep the real error.\n- After script reviews pass, the skills now remind you to add music and sfx tags to formal scripts before visual and audio production.\n- Plan review and pre-audition guidance now remind you to check voice gender and age range, instead of filling them in by role function.",
+  "releaseNotesZh": "- 登录后按账号策略切换网关时会保留登录状态；会话失效时回到全屏登录页，不再停在编辑器里显示未登录。\n- 账号页支持在对话框中修改密码。\n- 道具首次出图不再因缺少图片字段被整单拒收。\n- 服装锚点出图不再把同一角色肖像重复送给模型。\n- 按资源清单恢复角色头像身份后，换装锚点不再因缺少头像路径被拒。\n- 未登记的道具会在出图前被拦截，发布失败也会保留真实原因。\n- 剧本评审通过后，会提示先在正式剧本里补齐配乐和音效标签，再进入视觉和音频制作。\n- 规划评审和试听前会提示核对配音性别和年龄段，避免按角色功能临时填写。"
 }
