@@ -1,13 +1,13 @@
 {
-  "commit": "5f2d43cbd6fa2247898ee62d3f6ed378b95a3624",
-  "productVersion": "0.0.14",
-  "releaseSequence": "57",
-  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.14-r57/Lunaverse-0.0.14-r57.zip",
-  "sha256": "80be326fc1878a4543b76b5bf7e30db0b6e44ef9ab146cb5396638873d8451c7",
-  "size": 540214431,
-  "timestamp": 1795631211053,
-  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.14-r57",
-  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.14-r57.zip",
-  "releaseNotes": "- Large projects upload more assets in parallel and can reuse identical staged files after an interruption.\n- Publishing identifies adopted recordings whose files are missing and lets you publish the affected lines as text.\n- Upload errors distinguish a full temporary storage volume from an exhausted account quota.",
-  "releaseNotesZh": "- 发布大型作品时可并行上传更多素材，中断后可复用已暂存的相同文件。\n- 发布时会提示已采用但文件缺失的配音，相应台词仍可按文字发布。\n- 上传失败时会区分服务器临时空间不足与账户配额用尽。"
+  "commit": "779045f8fa9745e6fda7432c5f319c0ac8a71023",
+  "productVersion": "0.0.15",
+  "releaseSequence": "58",
+  "url": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/download/v0.0.15-r58/Lunaverse-0.0.15-r58.zip",
+  "sha256": "c27bfc8f65fa30e7366181b576a8d7e949c013f45aae56bb767cf88c31e801ea",
+  "size": 540242271,
+  "timestamp": 1795705713091,
+  "releasePageUrl": "https://github.com/AugustZAD/lunaverse-ide-releases/releases/tag/v0.0.15-r58",
+  "ossUrl": "https://mobai-file.oss-cn-shanghai.aliyuncs.com/ide/macos/Lunaverse-0.0.15-r58.zip",
+  "releaseNotes": "- Gateway policy moves after sign-in keep you signed in. If the session is missing, the app returns to the full-screen sign-in page instead of staying inside the editor unsigned in.\n- The account page can change your password in a dialog.",
+  "releaseNotesZh": "- 登录后按账号策略切换网关时会保留登录状态；会话失效时回到全屏登录页，不再停在编辑器里显示未登录。\n- 账号页支持在对话框中修改密码。"
 }
